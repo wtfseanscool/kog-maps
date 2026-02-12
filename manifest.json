@@ -1,6 +1,6 @@
 {
-  "version": "2026-02-04T08:32:12.302251",
-  "count": 1047,
+  "version": "2026-02-12T08:56:00.000000",
+  "count": 1048,
   "maps": [
     {
       "name": "001",
@@ -106,7 +106,7 @@
       "category": "Hard",
       "stars": 1,
       "points": 16,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2025-06-28",
       "size": 343889
     },
@@ -115,7 +115,7 @@
       "category": "Easy",
       "stars": 3,
       "points": 5,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2025-06-02",
       "size": 256046
     },
@@ -124,7 +124,7 @@
       "category": "Main",
       "stars": 3,
       "points": 13,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2025-03-09",
       "size": 267857
     },
@@ -133,7 +133,7 @@
       "category": "Main",
       "stars": 1,
       "points": 6,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2026-01-01",
       "size": 223488
     },
@@ -160,7 +160,7 @@
       "category": "Extreme",
       "stars": 1,
       "points": 44,
-      "author": "夜",
+      "author": "\u591c",
       "release_date": "2024-05-31",
       "size": 526657
     },
@@ -187,7 +187,7 @@
       "category": "Hard",
       "stars": 1,
       "points": 14,
-      "author": "Яна Соли",
+      "author": "\u042f\u043d\u0430 \u0421\u043e\u043b\u0438",
       "release_date": "2025-03-30",
       "size": 351890
     },
@@ -196,7 +196,7 @@
       "category": "Extreme",
       "stars": 1,
       "points": 44,
-      "author": "夜",
+      "author": "\u591c",
       "release_date": "2024-12-30",
       "size": 880355
     },
@@ -205,7 +205,7 @@
       "category": "Hard",
       "stars": 2,
       "points": 24,
-      "author": "Afterburn and ZXC¿Girl?",
+      "author": "Afterburn and ZXC\u00bfGirl?",
       "release_date": "2025-08-24",
       "size": 777258
     },
@@ -228,11 +228,20 @@
       "size": 489719
     },
     {
+      "name": "ACID",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "RaiNy",
+      "release_date": "2019-02-02",
+      "size": 643930
+    },
+    {
       "name": "A_Christmas_Carol",
       "category": "Hard",
       "stars": 3,
       "points": 41,
-      "author": "Milaseq_, TheSunSan, ipoopi, Krumplee, Route66, Afterbjörn, FJP, ejjie",
+      "author": "Milaseq_, TheSunSan, ipoopi, Krumplee, Route66, Afterbj\u00f6rn, FJP, ejjie",
       "release_date": "2025-12-20",
       "size": 823347
     },
@@ -244,15 +253,6 @@
       "author": "zale, BoWser",
       "release_date": "2022-03-08",
       "size": 740603
-    },
-    {
-      "name": "ACID",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "RaiNy",
-      "release_date": "2019-02-02",
-      "size": 643930
     },
     {
       "name": "Action",
@@ -282,29 +282,11 @@
       "size": 31852
     },
     {
-      "name": "afkomyu",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "Komyu",
-      "release_date": "2023-02-02",
-      "size": 953037
-    },
-    {
-      "name": "afOatmeal",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "Komyu",
-      "release_date": "2023-10-17",
-      "size": 850776
-    },
-    {
       "name": "After4Rising",
       "category": "Easy",
       "stars": 2,
       "points": 3,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2025-07-13",
       "size": 369854
     },
@@ -313,7 +295,7 @@
       "category": "Hard",
       "stars": 2,
       "points": 18,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2024-11-04",
       "size": 1062138
     },
@@ -345,15 +327,6 @@
       "size": 677002
     },
     {
-      "name": "Aip_X",
-      "category": "Extreme",
-      "stars": 3,
-      "points": 88,
-      "author": "Mixi",
-      "release_date": "2025-03-01",
-      "size": 506311
-    },
-    {
       "name": "AipFlip",
       "category": "Hard",
       "stars": 3,
@@ -361,6 +334,15 @@
       "author": "FlipLipp",
       "release_date": "2018-10-12",
       "size": 220914
+    },
+    {
+      "name": "Aip_X",
+      "category": "Extreme",
+      "stars": 3,
+      "points": 88,
+      "author": "Mixi",
+      "release_date": "2025-03-01",
+      "size": 506311
     },
     {
       "name": "Aipless",
@@ -579,15 +561,6 @@
       "size": 912254
     },
     {
-      "name": "asnoZ",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "Zonsa",
-      "release_date": "2022-12-26",
-      "size": 655153
-    },
-    {
       "name": "Aster",
       "category": "Extreme",
       "stars": 2,
@@ -651,33 +624,6 @@
       "size": 778353
     },
     {
-      "name": "BabyDragger",
-      "category": "Mod",
-      "stars": 4,
-      "points": 30,
-      "author": "тυx",
-      "release_date": "2025-09-01",
-      "size": 668442
-    },
-    {
-      "name": "Balada",
-      "category": "Mod",
-      "stars": 3,
-      "points": 14,
-      "author": "Warto",
-      "release_date": "2021-11-26",
-      "size": 864659
-    },
-    {
-      "name": "bazawa",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "bzw",
-      "release_date": "2020-04-07",
-      "size": 432227
-    },
-    {
       "name": "BBB",
       "category": "Extreme",
       "stars": 3,
@@ -685,33 +631,6 @@
       "author": "Krumplee",
       "release_date": "2025-10-12",
       "size": 1194726
-    },
-    {
-      "name": "Beam",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "FlipLipp",
-      "release_date": "2019-07-17",
-      "size": 656993
-    },
-    {
-      "name": "BecauseMaybe",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Afterbjörn",
-      "release_date": "2024-09-01",
-      "size": 917919
-    },
-    {
-      "name": "Beyblade",
-      "category": "Hard",
-      "stars": 2,
-      "points": 18,
-      "author": "Shyzo",
-      "release_date": "2017-07-29",
-      "size": 366499
     },
     {
       "name": "BG13",
@@ -730,6 +649,69 @@
       "author": "Bl0odDens, Hallas, RedFight, xRyperion_",
       "release_date": "Released during a sunset",
       "size": 771108
+    },
+    {
+      "name": "BLACK_SMOKE",
+      "category": "Main",
+      "stars": 1,
+      "points": 5,
+      "author": "Rei ayanami",
+      "release_date": "2021-07-09",
+      "size": 676295
+    },
+    {
+      "name": "BRUME",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Rei ayanami",
+      "release_date": "2022-04-01",
+      "size": 976568
+    },
+    {
+      "name": "BabyDragger",
+      "category": "Mod",
+      "stars": 4,
+      "points": 30,
+      "author": "\u0442\u03c5x",
+      "release_date": "2025-09-01",
+      "size": 668442
+    },
+    {
+      "name": "Balada",
+      "category": "Mod",
+      "stars": 3,
+      "points": 14,
+      "author": "Warto",
+      "release_date": "2021-11-26",
+      "size": 864659
+    },
+    {
+      "name": "Beam",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "FlipLipp",
+      "release_date": "2019-07-17",
+      "size": 656993
+    },
+    {
+      "name": "BecauseMaybe",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Afterbj\u00f6rn",
+      "release_date": "2024-09-01",
+      "size": 917919
+    },
+    {
+      "name": "Beyblade",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "Shyzo",
+      "release_date": "2017-07-29",
+      "size": 366499
     },
     {
       "name": "BitKoG",
@@ -840,13 +822,13 @@
       "size": 452903
     },
     {
-      "name": "BLACK_SMOKE",
-      "category": "Main",
-      "stars": 1,
-      "points": 5,
-      "author": "Rei ayanami",
-      "release_date": "2021-07-09",
-      "size": 676295
+      "name": "BlackDoods",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
+      "author": "Zonsa",
+      "release_date": "2023-08-30",
+      "size": 534848
     },
     {
       "name": "Black_Widow",
@@ -856,15 +838,6 @@
       "author": "Mixi",
       "release_date": "2023-12-15",
       "size": 148547
-    },
-    {
-      "name": "BlackDoods",
-      "category": "Solo",
-      "stars": 2,
-      "points": 6,
-      "author": "Zonsa",
-      "release_date": "2023-08-30",
-      "size": 534848
     },
     {
       "name": "Blackwolf",
@@ -885,24 +858,6 @@
       "size": 890880
     },
     {
-      "name": "blim4zale",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "blim",
-      "release_date": "2020-11-10",
-      "size": 308015
-    },
-    {
-      "name": "blim_Gores",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "blim",
-      "release_date": "2020-09-15",
-      "size": 322329
-    },
-    {
       "name": "BloodLine",
       "category": "Solo",
       "stars": 3,
@@ -910,24 +865,6 @@
       "author": "alya?",
       "release_date": "2025-12-25",
       "size": 330425
-    },
-    {
-      "name": "bloodstone",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "GELO",
-      "release_date": "2021-01-12",
-      "size": 512427
-    },
-    {
-      "name": "blue_space",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "purrpT",
-      "release_date": "2020-05-02",
-      "size": 672206
     },
     {
       "name": "BlueMoon",
@@ -948,15 +885,6 @@
       "size": 707039
     },
     {
-      "name": "Blueprint",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "FJP",
-      "release_date": "2022-06-14",
-      "size": 325541
-    },
-    {
       "name": "BlueSky",
       "category": "Hard",
       "stars": 1,
@@ -964,6 +892,15 @@
       "author": "Zonsa",
       "release_date": "2023-07-05",
       "size": 662538
+    },
+    {
+      "name": "Blueprint",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "FJP",
+      "release_date": "2022-06-14",
+      "size": 325541
     },
     {
       "name": "Boardwalk",
@@ -1002,15 +939,6 @@
       "size": 362828
     },
     {
-      "name": "bPls",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "Route66",
-      "release_date": "2021-07-13",
-      "size": 417568
-    },
-    {
       "name": "Brexamus",
       "category": "Hard",
       "stars": 2,
@@ -1018,24 +946,6 @@
       "author": "Nareem",
       "release_date": "2021-10-24",
       "size": 608952
-    },
-    {
-      "name": "BRUME",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Rei ayanami",
-      "release_date": "2022-04-01",
-      "size": 976568
-    },
-    {
-      "name": "bubbles",
-      "category": "Insane",
-      "stars": 1,
-      "points": 35,
-      "author": "cagent, Kingston",
-      "release_date": "2021-01-29",
-      "size": 409131
     },
     {
       "name": "Bubbly1",
@@ -1065,132 +975,6 @@
       "size": 317007
     },
     {
-      "name": "bzolow",
-      "category": "Solo",
-      "stars": 5,
-      "points": 44,
-      "author": "bzw",
-      "release_date": "2022-07-12",
-      "size": 671561
-    },
-    {
-      "name": "bzonsw",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "Zonsa",
-      "release_date": "2020-04-18",
-      "size": 425927
-    },
-    {
-      "name": "bzw1",
-      "category": "Hard",
-      "stars": 2,
-      "points": 24,
-      "author": "bzw",
-      "release_date": "2018-02-04",
-      "size": 164378
-    },
-    {
-      "name": "bzw2",
-      "category": "Insane",
-      "stars": 1,
-      "points": 41,
-      "author": "bzw",
-      "release_date": "2018-06-29",
-      "size": 369551
-    },
-    {
-      "name": "bzw3",
-      "category": "Insane",
-      "stars": 1,
-      "points": 35,
-      "author": "bzw",
-      "release_date": "2018-04-14",
-      "size": 376174
-    },
-    {
-      "name": "bzw4",
-      "category": "Insane",
-      "stars": 1,
-      "points": 41,
-      "author": "bzw",
-      "release_date": "2019-01-08",
-      "size": 503119
-    },
-    {
-      "name": "bzw4chile",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "bzw",
-      "release_date": "2019-05-27",
-      "size": 431673
-    },
-    {
-      "name": "bzw4miep",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "bzw",
-      "release_date": "2018-03-27",
-      "size": 545274
-    },
-    {
-      "name": "bzw4Treefly",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "bzw",
-      "release_date": "2018-10-07",
-      "size": 512891
-    },
-    {
-      "name": "bzw4tux",
-      "category": "Main",
-      "stars": 3,
-      "points": 8,
-      "author": "bzw",
-      "release_date": "2019-12-22",
-      "size": 480081
-    },
-    {
-      "name": "bzw5",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "bzw",
-      "release_date": "2019-03-27",
-      "size": 610236
-    },
-    {
-      "name": "bzw7",
-      "category": "Insane",
-      "stars": 3,
-      "points": 54,
-      "author": "bzw",
-      "release_date": "2019-05-31",
-      "size": 331384
-    },
-    {
-      "name": "bzw8",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "bzw",
-      "release_date": "2022-07-10",
-      "size": 699713
-    },
-    {
-      "name": "cake_reef",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "CAKExSNIFFERx42",
-      "release_date": "2024-08-17",
-      "size": 416185
-    },
-    {
       "name": "CAKE_SPACE",
       "category": "Main",
       "stars": 3,
@@ -1200,31 +984,40 @@
       "size": 668341
     },
     {
-      "name": "cake_strawberry",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "CAKExSNIFFERx42",
-      "release_date": "2024-12-28",
-      "size": 860996
+      "name": "CGores",
+      "category": "Main",
+      "stars": 2,
+      "points": 12,
+      "author": "Colgate",
+      "release_date": "2019-03-21",
+      "size": 228034
     },
     {
-      "name": "cake_winter",
+      "name": "CGores_2",
       "category": "Main",
       "stars": 3,
-      "points": 11,
-      "author": "CAKExSNIFFERx42",
-      "release_date": "2024-07-03",
-      "size": 713652
+      "points": 13,
+      "author": "Colgate",
+      "release_date": "2020-07-24",
+      "size": 449174
     },
     {
-      "name": "calm",
-      "category": "Insane",
+      "name": "CHILL",
+      "category": "Easy",
       "stars": 2,
-      "points": 47,
-      "author": "bzw",
-      "release_date": "2019-08-02",
-      "size": 471355
+      "points": 2,
+      "author": "Rei ayanami",
+      "release_date": "2022-06-19",
+      "size": 997726
+    },
+    {
+      "name": "CTF_Gores",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
+      "author": "mind",
+      "release_date": "2020-05-19",
+      "size": 558299
     },
     {
       "name": "Caminata",
@@ -1263,15 +1056,6 @@
       "size": 1361455
     },
     {
-      "name": "capon",
-      "category": "Extreme",
-      "stars": 1,
-      "points": 44,
-      "author": "夜",
-      "release_date": "2024-07-13",
-      "size": 591911
-    },
-    {
       "name": "CastleMania",
       "category": "Hard",
       "stars": 2,
@@ -1288,24 +1072,6 @@
       "author": "konwic",
       "release_date": "2020-06-16",
       "size": 792261
-    },
-    {
-      "name": "Catalan_Aim",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "Knuski",
-      "release_date": "2021-08-20",
-      "size": 530721
-    },
-    {
-      "name": "Catalyst",
-      "category": "Hard",
-      "stars": 2,
-      "points": 18,
-      "author": "Afterbjörn",
-      "release_date": "2025-09-14",
-      "size": 613160
     },
     {
       "name": "CatLand",
@@ -1326,13 +1092,22 @@
       "size": 1439053
     },
     {
-      "name": "cave",
-      "category": "Insane",
+      "name": "Catalan_Aim",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Knuski",
+      "release_date": "2021-08-20",
+      "size": 530721
+    },
+    {
+      "name": "Catalyst",
+      "category": "Hard",
       "stars": 2,
-      "points": 40,
-      "author": "bzw",
-      "release_date": "2018-11-21",
-      "size": 487877
+      "points": 18,
+      "author": "Afterbj\u00f6rn",
+      "release_date": "2025-09-14",
+      "size": 613160
     },
     {
       "name": "Caverna",
@@ -1371,24 +1146,6 @@
       "size": 335631
     },
     {
-      "name": "CGores",
-      "category": "Main",
-      "stars": 2,
-      "points": 12,
-      "author": "Colgate",
-      "release_date": "2019-03-21",
-      "size": 228034
-    },
-    {
-      "name": "CGores_2",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "Colgate",
-      "release_date": "2020-07-24",
-      "size": 449174
-    },
-    {
       "name": "ChainsawMan",
       "category": "Hard",
       "stars": 3,
@@ -1411,7 +1168,7 @@
       "category": "Extreme",
       "stars": 2,
       "points": 70,
-      "author": "ѕнαяу",
+      "author": "\u0455\u043d\u03b1\u044f\u0443",
       "release_date": "2025-07-22",
       "size": 413109
     },
@@ -1459,15 +1216,6 @@
       "author": "ChildOfGod",
       "release_date": "Released during a sunset",
       "size": 343400
-    },
-    {
-      "name": "CHILL",
-      "category": "Easy",
-      "stars": 2,
-      "points": 2,
-      "author": "Rei ayanami",
-      "release_date": "2022-06-19",
-      "size": 997726
     },
     {
       "name": "ChillerDragon4Jessica",
@@ -1650,6 +1398,15 @@
       "size": 222184
     },
     {
+      "name": "CkiSNox1",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "CkiS",
+      "release_date": "2017-04-23",
+      "size": 486274
+    },
+    {
       "name": "CkiS_4_CLow",
       "category": "Hard",
       "stars": 3,
@@ -1657,15 +1414,6 @@
       "author": "CkiS",
       "release_date": "2018-06-16",
       "size": 803558
-    },
-    {
-      "name": "CkiS_4_effect",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "CkiS",
-      "release_date": "Released during a sunset",
-      "size": 108963
     },
     {
       "name": "CkiS_4_Jimmy",
@@ -1704,13 +1452,13 @@
       "size": 454997
     },
     {
-      "name": "Ckis_4_unskilledplayer",
-      "category": "Main",
+      "name": "CkiS_4_effect",
+      "category": "Hard",
       "stars": 3,
-      "points": 11,
-      "author": "Ckis",
-      "release_date": "2019-07-25",
-      "size": 394711
+      "points": 25,
+      "author": "CkiS",
+      "release_date": "Released during a sunset",
+      "size": 108963
     },
     {
       "name": "CkiSbzw1",
@@ -1720,6 +1468,15 @@
       "author": "CkiSbzw",
       "release_date": "2019-06-18",
       "size": 395069
+    },
+    {
+      "name": "CkiSzale",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "CkiS, zale",
+      "release_date": "2020-10-27",
+      "size": 502455
     },
     {
       "name": "CkisFlip",
@@ -1740,15 +1497,6 @@
       "size": 313445
     },
     {
-      "name": "CkiSNox1",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "CkiS",
-      "release_date": "2017-04-23",
-      "size": 486274
-    },
-    {
       "name": "CkisTerston1",
       "category": "Insane",
       "stars": 1,
@@ -1758,13 +1506,13 @@
       "size": 814477
     },
     {
-      "name": "CkiSzale",
-      "category": "Hard",
+      "name": "Ckis_4_unskilledplayer",
+      "category": "Main",
       "stars": 3,
-      "points": 25,
-      "author": "CkiS, zale",
-      "release_date": "2020-10-27",
-      "size": 502455
+      "points": 11,
+      "author": "Ckis",
+      "release_date": "2019-07-25",
+      "size": 394711
     },
     {
       "name": "Clean",
@@ -1866,15 +1614,6 @@
       "size": 161876
     },
     {
-      "name": "Corazon4caroLin",
-      "category": "Insane",
-      "stars": 3,
-      "points": 47,
-      "author": "Corazon",
-      "release_date": "2022-02-08",
-      "size": 133262
-    },
-    {
       "name": "Corazon4Drakenmake",
       "category": "Hard",
       "stars": 3,
@@ -1882,6 +1621,24 @@
       "author": "Corazon",
       "release_date": "2019-06-15",
       "size": 102215
+    },
+    {
+      "name": "Corazon4Ym2",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Corazon",
+      "release_date": "2019-01-28",
+      "size": 122956
+    },
+    {
+      "name": "Corazon4caroLin",
+      "category": "Insane",
+      "stars": 3,
+      "points": 47,
+      "author": "Corazon",
+      "release_date": "2022-02-08",
+      "size": 133262
     },
     {
       "name": "Corazon4himself",
@@ -1900,24 +1657,6 @@
       "author": "Corazon",
       "release_date": "2019-01-17",
       "size": 199705
-    },
-    {
-      "name": "Corazon4Ym2",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "Corazon",
-      "release_date": "2019-01-28",
-      "size": 122956
-    },
-    {
-      "name": "corgores2",
-      "category": "Hard",
-      "stars": 2,
-      "points": 18,
-      "author": "ImCorneum",
-      "release_date": "2019-11-18",
-      "size": 663445
     },
     {
       "name": "Corrupted",
@@ -1983,24 +1722,6 @@
       "size": 1142559
     },
     {
-      "name": "CTF_Gores",
-      "category": "Hard",
-      "stars": 2,
-      "points": 24,
-      "author": "mind",
-      "release_date": "2020-05-19",
-      "size": 558299
-    },
-    {
-      "name": "cursed",
-      "category": "Insane",
-      "stars": 3,
-      "points": 63,
-      "author": "Krumplee, bzw",
-      "release_date": "2021-01-06",
-      "size": 1346892
-    },
-    {
       "name": "Cyanica",
       "category": "Insane",
       "stars": 1,
@@ -2008,15 +1729,6 @@
       "author": "nova",
       "release_date": "2024-05-25",
       "size": 132506
-    },
-    {
-      "name": "cyber",
-      "category": "Hard",
-      "stars": 3,
-      "points": 41,
-      "author": "FlippLip, Beautemps",
-      "release_date": "2023-11-27",
-      "size": 2730555
     },
     {
       "name": "D4rn4SForMeow",
@@ -2028,15 +1740,6 @@
       "size": 693761
     },
     {
-      "name": "dabushes",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Exless",
-      "release_date": "2021-06-29",
-      "size": 493341
-    },
-    {
       "name": "DANCING_FREEZE",
       "category": "Mod",
       "stars": 3,
@@ -2046,13 +1749,13 @@
       "size": 1103834
     },
     {
-      "name": "dandadan",
-      "category": "Hard",
+      "name": "DM_Gores",
+      "category": "Main",
       "stars": 2,
-      "points": 24,
-      "author": "ejjie",
-      "release_date": "2025-01-20",
-      "size": 1881459
+      "points": 8,
+      "author": "mind",
+      "release_date": "2022-11-29",
+      "size": 682363
     },
     {
       "name": "Dandelinux",
@@ -2073,15 +1776,6 @@
       "size": 264155
     },
     {
-      "name": "dark",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "cagent",
-      "release_date": "2021-05-11",
-      "size": 869883
-    },
-    {
       "name": "DarkFluff",
       "category": "Hard",
       "stars": 2,
@@ -2089,15 +1783,6 @@
       "author": "nr6man",
       "release_date": "2025-09-23",
       "size": 332407
-    },
-    {
-      "name": "darkforest",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Mqx",
-      "release_date": "2023-05-10",
-      "size": 888824
     },
     {
       "name": "DarkGen",
@@ -2125,15 +1810,6 @@
       "author": "Zonsa",
       "release_date": "2021-08-31",
       "size": 318581
-    },
-    {
-      "name": "ddrace",
-      "category": "Extreme",
-      "stars": 1,
-      "points": 54,
-      "author": "Themix",
-      "release_date": "2025-06-18",
-      "size": 684393
     },
     {
       "name": "DeadHook",
@@ -2244,47 +1920,20 @@
       "size": 70071
     },
     {
-      "name": "dindila",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "bzw",
-      "release_date": "2021-01-04",
-      "size": 715195
-    },
-    {
-      "name": "dionle",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "elnoid",
-      "release_date": "2024-12-03",
-      "size": 182009
-    },
-    {
       "name": "Discipline",
       "category": "Solo",
       "stars": 3,
       "points": 14,
-      "author": "ѕнαяу",
+      "author": "\u0455\u043d\u03b1\u044f\u0443",
       "release_date": "2024-05-11",
       "size": 657419
-    },
-    {
-      "name": "DM_Gores",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "mind",
-      "release_date": "2022-11-29",
-      "size": 682363
     },
     {
       "name": "DoorWays",
       "category": "Solo",
       "stars": 3,
       "points": 14,
-      "author": "Шизик",
+      "author": "\u0428\u0438\u0437\u0438\u043a",
       "release_date": "2023-01-10",
       "size": 358598
     },
@@ -2305,15 +1954,6 @@
       "author": "badoumed",
       "release_date": "2022-02-25",
       "size": 895590
-    },
-    {
-      "name": "dragonexe",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "Zero",
-      "release_date": "2021-04-16",
-      "size": 1426839
     },
     {
       "name": "DragonLore",
@@ -2433,15 +2073,6 @@
       "size": 1111328
     },
     {
-      "name": "elnoid4FJP",
-      "category": "Hard",
-      "stars": 2,
-      "points": 18,
-      "author": "elnoid",
-      "release_date": "2024-06-10",
-      "size": 498452
-    },
-    {
       "name": "Elythrix",
       "category": "Main",
       "stars": 2,
@@ -2491,7 +2122,7 @@
       "category": "Hard",
       "stars": 2,
       "points": 21,
-      "author": "ρнιʐyxxx",
+      "author": "\u03c1\u043d\u03b9\u0290yxxx",
       "release_date": "2025-12-30",
       "size": 439943
     },
@@ -2518,7 +2149,7 @@
       "category": "Insane",
       "stars": 3,
       "points": 42,
-      "author": "ѕнαяу",
+      "author": "\u0455\u043d\u03b1\u044f\u0443",
       "release_date": "2024-03-31",
       "size": 511545
     },
@@ -2599,7 +2230,7 @@
       "category": "Insane",
       "stars": 1,
       "points": 30,
-      "author": "ZXC¿Girl?",
+      "author": "ZXC\u00bfGirl?",
       "release_date": "2025-04-13",
       "size": 362582
     },
@@ -2622,15 +2253,6 @@
       "size": 945524
     },
     {
-      "name": "Exorcism",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "Krumplee",
-      "release_date": "2020-02-12",
-      "size": 597876
-    },
-    {
       "name": "ExTr3",
       "category": "Hard",
       "stars": 2,
@@ -2640,184 +2262,22 @@
       "size": 559207
     },
     {
+      "name": "Exorcism",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "Krumplee",
+      "release_date": "2020-02-12",
+      "size": 597876
+    },
+    {
       "name": "F1",
       "category": "Insane",
       "stars": 1,
       "points": 23,
-      "author": "ρнιʐyxxx",
+      "author": "\u03c1\u043d\u03b9\u0290yxxx",
       "release_date": "2025-12-26",
       "size": 114035
-    },
-    {
-      "name": "FalltimeSunset",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "purrpT",
-      "release_date": "2020-03-22",
-      "size": 299748
-    },
-    {
-      "name": "Fearless",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Afterbjörn",
-      "release_date": "2024-11-10",
-      "size": 396784
-    },
-    {
-      "name": "feat4flip",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "feat",
-      "release_date": "2019-12-12",
-      "size": 855315
-    },
-    {
-      "name": "feat4juicy",
-      "category": "Hard",
-      "stars": 3,
-      "points": 34,
-      "author": "feat",
-      "release_date": "2020-01-04",
-      "size": 1023559
-    },
-    {
-      "name": "feat4neo",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "feat",
-      "release_date": "2020-07-17",
-      "size": 504841
-    },
-    {
-      "name": "featality",
-      "category": "Main",
-      "stars": 3,
-      "points": 16,
-      "author": "feat",
-      "release_date": "2018-10-20",
-      "size": 675188
-    },
-    {
-      "name": "featuristic",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "feat",
-      "release_date": "2018-08-30",
-      "size": 170841
-    },
-    {
-      "name": "Feet4Tyrone",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Ssor",
-      "release_date": "2023-05-25",
-      "size": 309775
-    },
-    {
-      "name": "fik4bzw",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "fikmesan",
-      "release_date": "2018-10-29",
-      "size": 135989
-    },
-    {
-      "name": "fik4Enyltyn",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "fikmesan",
-      "release_date": "2019-04-26",
-      "size": 644389
-    },
-    {
-      "name": "fik4imp",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "fikmesan",
-      "release_date": "2019-04-10",
-      "size": 658837
-    },
-    {
-      "name": "fik4Isi",
-      "category": "Easy",
-      "stars": 2,
-      "points": 2,
-      "author": "fikmesan",
-      "release_date": "2018-06-29",
-      "size": 550903
-    },
-    {
-      "name": "fik4Kicker",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "fikmesan",
-      "release_date": "2018-06-09",
-      "size": 538877
-    },
-    {
-      "name": "fik4LemonTee",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "fikmesan",
-      "release_date": "2020-11-03",
-      "size": 229061
-    },
-    {
-      "name": "fik4snail",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "fikmesan",
-      "release_date": "Released during a sunset",
-      "size": 100824
-    },
-    {
-      "name": "fik4SubLime",
-      "category": "Main",
-      "stars": 1,
-      "points": 4,
-      "author": "fikmesan",
-      "release_date": "2021-03-22",
-      "size": 566321
-    },
-    {
-      "name": "fikbzw",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "fikmesan_bzw",
-      "release_date": "2019-05-16",
-      "size": 423167
-    },
-    {
-      "name": "fikmesan",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "fikmesan",
-      "release_date": "Released during a sunset",
-      "size": 459351
-    },
-    {
-      "name": "fikvie",
-      "category": "Main",
-      "stars": 1,
-      "points": 12,
-      "author": "Ravie and fikmesan",
-      "release_date": "2018-10-28",
-      "size": 377734
     },
     {
       "name": "FJP030",
@@ -2836,6 +2296,33 @@
       "author": "FJP & Jonas",
       "release_date": "2026-01-12",
       "size": 345947
+    },
+    {
+      "name": "FalltimeSunset",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "purrpT",
+      "release_date": "2020-03-22",
+      "size": 299748
+    },
+    {
+      "name": "Fearless",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Afterbj\u00f6rn",
+      "release_date": "2024-11-10",
+      "size": 396784
+    },
+    {
+      "name": "Feet4Tyrone",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Ssor",
+      "release_date": "2023-05-25",
+      "size": 309775
     },
     {
       "name": "Flamingu",
@@ -2892,15 +2379,6 @@
       "size": 744078
     },
     {
-      "name": "Flip4feat",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "FlipLipp",
-      "release_date": "2019-05-18",
-      "size": 507369
-    },
-    {
       "name": "Flip4Hakurei",
       "category": "Hard",
       "stars": 3,
@@ -2946,6 +2424,15 @@
       "size": 226360
     },
     {
+      "name": "Flip4feat",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "FlipLipp",
+      "release_date": "2019-05-18",
+      "size": 507369
+    },
+    {
       "name": "FlipBzw",
       "category": "Insane",
       "stars": 1,
@@ -2989,15 +2476,6 @@
       "author": "FlipLipp",
       "release_date": "2018-10-07",
       "size": 489277
-    },
-    {
-      "name": "Flipfeat2",
-      "category": "Insane",
-      "stars": 2,
-      "points": 40,
-      "author": "FlipLipp, Feat",
-      "release_date": "2022-11-21",
-      "size": 852961
     },
     {
       "name": "FlipFeat3",
@@ -3387,6 +2865,15 @@
       "size": 446233
     },
     {
+      "name": "Flipfeat2",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "FlipLipp, Feat",
+      "release_date": "2022-11-21",
+      "size": 852961
+    },
+    {
       "name": "FlippLipp6",
       "category": "Main",
       "stars": 2,
@@ -3432,24 +2919,6 @@
       "size": 1342278
     },
     {
-      "name": "fokcores",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "fokkonaut, Cor",
-      "release_date": "2020-05-22",
-      "size": 1006080
-    },
-    {
-      "name": "fokkonaut",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "fokkonaut",
-      "release_date": "2017-02-20",
-      "size": 209268
-    },
-    {
       "name": "FortCrispy",
       "category": "Hard",
       "stars": 2,
@@ -3459,15 +2928,6 @@
       "size": 182413
     },
     {
-      "name": "FreedomDive",
-      "category": "Insane",
-      "stars": 1,
-      "points": 35,
-      "author": "Afterbjörn",
-      "release_date": "2024-06-02",
-      "size": 242546
-    },
-    {
       "name": "FreeMazanitax",
       "category": "Insane",
       "stars": 1,
@@ -3475,6 +2935,15 @@
       "author": "Colo-Colo",
       "release_date": "2023-08-27",
       "size": 422145
+    },
+    {
+      "name": "FreedomDive",
+      "category": "Insane",
+      "stars": 1,
+      "points": 35,
+      "author": "Afterbj\u00f6rn",
+      "release_date": "2024-06-02",
+      "size": 242546
     },
     {
       "name": "Frostgale_Canyon",
@@ -3558,15 +3027,6 @@
       "size": 355532
     },
     {
-      "name": "ghosttown",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "se",
-      "release_date": "2020-12-01",
-      "size": 423307
-    },
-    {
       "name": "Ghoti",
       "category": "Insane",
       "stars": 2,
@@ -3603,13 +3063,13 @@
       "size": 925175
     },
     {
-      "name": "goatschool",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "purrpT",
-      "release_date": "2023-06-19",
-      "size": 210240
+      "name": "GoWindy1",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "Windy",
+      "release_date": "2022-09-05",
+      "size": 1234454
     },
     {
       "name": "GoldDigga",
@@ -3702,24 +3162,6 @@
       "size": 267002
     },
     {
-      "name": "goryx",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "purrpT",
-      "release_date": "2020-03-11",
-      "size": 188771
-    },
-    {
-      "name": "GoWindy1",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "Windy",
-      "release_date": "2022-09-05",
-      "size": 1234454
-    },
-    {
       "name": "Gradzes",
       "category": "Hard",
       "stars": 1,
@@ -3756,15 +3198,6 @@
       "size": 249982
     },
     {
-      "name": "GreeniRedFight",
-      "category": "Main",
-      "stars": 3,
-      "points": 8,
-      "author": "Greeni & RedFight",
-      "release_date": "Released during a sunset",
-      "size": 249537
-    },
-    {
       "name": "GreenMoon",
       "category": "Hard",
       "stars": 2,
@@ -3774,6 +3207,15 @@
       "size": 591760
     },
     {
+      "name": "GreeniRedFight",
+      "category": "Main",
+      "stars": 3,
+      "points": 8,
+      "author": "Greeni & RedFight",
+      "release_date": "Released during a sunset",
+      "size": 249537
+    },
+    {
       "name": "Greeny",
       "category": "Easy",
       "stars": 3,
@@ -3781,6 +3223,15 @@
       "author": "KOF",
       "release_date": "2022-04-26",
       "size": 127691
+    },
+    {
+      "name": "GreyZ",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "Zonsa",
+      "release_date": "2020-06-21",
+      "size": 84555
     },
     {
       "name": "Greyfox",
@@ -3799,15 +3250,6 @@
       "author": "Krixe",
       "release_date": "2022-07-05",
       "size": 697634
-    },
-    {
-      "name": "GreyZ",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Zonsa",
-      "release_date": "2020-06-21",
-      "size": 84555
     },
     {
       "name": "Gridwyn2",
@@ -3931,7 +3373,7 @@
       "category": "Easy",
       "stars": 2,
       "points": 2,
-      "author": "ZXC¿Girl?",
+      "author": "ZXC\u00bfGirl?",
       "release_date": "2025-10-05",
       "size": 863438
     },
@@ -3943,15 +3385,6 @@
       "author": "Quinn, Latexxs.",
       "release_date": "2022-11-15",
       "size": 864242
-    },
-    {
-      "name": "hanh_phuc",
-      "category": "Mod",
-      "stars": 5,
-      "points": 32,
-      "author": "Syltoox",
-      "release_date": "2020-06-03",
-      "size": 1322446
     },
     {
       "name": "Hasselbach",
@@ -4084,7 +3517,7 @@
       "category": "Main",
       "stars": 1,
       "points": 8,
-      "author": "тυx",
+      "author": "\u0442\u03c5x",
       "release_date": "2025-10-19",
       "size": 121676
     },
@@ -4123,15 +3556,6 @@
       "author": "Brokecdx-",
       "release_date": "2025-04-20",
       "size": 970961
-    },
-    {
-      "name": "himinn",
-      "category": "Hard",
-      "stars": 1,
-      "points": 20,
-      "author": "New Hero",
-      "release_date": "2024-09-08",
-      "size": 1039858
     },
     {
       "name": "Hoarfrost",
@@ -4174,18 +3598,9 @@
       "category": "Hard",
       "stars": 3,
       "points": 22,
-      "author": "ZXC¿Girl?",
+      "author": "ZXC\u00bfGirl?",
       "release_date": "2025-09-29",
       "size": 556235
-    },
-    {
-      "name": "humik",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "humik",
-      "release_date": "2023-09-20",
-      "size": 1466684
     },
     {
       "name": "Humik4Alea",
@@ -4195,24 +3610,6 @@
       "author": "humik",
       "release_date": "2022-02-11",
       "size": 600889
-    },
-    {
-      "name": "i_need_mushroom_girl",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "ZXC¿Girl?",
-      "release_date": "2025-10-12",
-      "size": 727574
-    },
-    {
-      "name": "iCe-Ice",
-      "category": "Insane",
-      "stars": 2,
-      "points": 40,
-      "author": "Deploid, se",
-      "release_date": "2021-10-10",
-      "size": 882124
     },
     {
       "name": "IceBox",
@@ -4242,15 +3639,6 @@
       "size": 271080
     },
     {
-      "name": "ikiedulover",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "Colo-Colo",
-      "release_date": "2024-03-27",
-      "size": 521105
-    },
-    {
       "name": "Iloveyoumoreeachtimeyoudie",
       "category": "Extreme",
       "stars": 3,
@@ -4258,15 +3646,6 @@
       "author": "Mixi",
       "release_date": "2023-09-09",
       "size": 399699
-    },
-    {
-      "name": "ilyzaelle",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "Colo-Colo",
-      "release_date": "2023-07-12",
-      "size": 425565
     },
     {
       "name": "Im_Climb5",
@@ -4341,15 +3720,6 @@
       "size": 193102
     },
     {
-      "name": "impton",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "Gotie, KOF",
-      "release_date": "2022-02-15",
-      "size": 406445
-    },
-    {
       "name": "Inception",
       "category": "Hard",
       "stars": 3,
@@ -4357,15 +3727,6 @@
       "author": "Brokecdx Miiep",
       "release_date": "2019-06-24",
       "size": 2003012
-    },
-    {
-      "name": "infazci",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "rawensawa",
-      "release_date": "2023-10-24",
-      "size": 576022
     },
     {
       "name": "Infinished",
@@ -4431,15 +3792,6 @@
       "size": 209954
     },
     {
-      "name": "insomyu",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
-      "author": "Komyu",
-      "release_date": "2024-09-06",
-      "size": 611774
-    },
-    {
       "name": "Interstellar",
       "category": "Hard",
       "stars": 2,
@@ -4456,15 +3808,6 @@
       "author": "purrp T",
       "release_date": "2020-07-10",
       "size": 699616
-    },
-    {
-      "name": "iWebCkis1",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "iWeb_CkiS",
-      "release_date": "2019-09-04",
-      "size": 376136
     },
     {
       "name": "Jauria",
@@ -4507,9 +3850,27 @@
       "category": "Hard",
       "stars": 3,
       "points": 25,
-      "author": "Bo₩ser",
+      "author": "Bo\u20a9ser",
       "release_date": "2024-06-20",
       "size": 949866
+    },
+    {
+      "name": "JustCommunity",
+      "category": "Insane",
+      "stars": 1,
+      "points": 48,
+      "author": "Mixi, Szymon",
+      "release_date": "2021-07-27",
+      "size": 1778371
+    },
+    {
+      "name": "JustTeE4JustNoob",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "Just_TeE",
+      "release_date": "2016-11-26",
+      "size": 275665
     },
     {
       "name": "Just_Gores7",
@@ -4539,15 +3900,6 @@
       "size": 68933
     },
     {
-      "name": "Just_Team1",
-      "category": "Main",
-      "stars": 2,
-      "points": 12,
-      "author": "Just_TeE",
-      "release_date": "Released during a sunset",
-      "size": 165162
-    },
-    {
       "name": "Just_TeE3",
       "category": "Main",
       "stars": 2,
@@ -4557,47 +3909,20 @@
       "size": 277654
     },
     {
-      "name": "JustCommunity",
-      "category": "Insane",
-      "stars": 1,
-      "points": 48,
-      "author": "Mixi, Szymon",
-      "release_date": "2021-07-27",
-      "size": 1778371
-    },
-    {
-      "name": "justfeat",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "feat",
-      "release_date": "2021-06-25",
-      "size": 922958
-    },
-    {
-      "name": "JustTeE4JustNoob",
-      "category": "Hard",
+      "name": "Just_Team1",
+      "category": "Main",
       "stars": 2,
-      "points": 21,
+      "points": 12,
       "author": "Just_TeE",
-      "release_date": "2016-11-26",
-      "size": 275665
-    },
-    {
-      "name": "kakdela",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
-      "author": "ejjie",
-      "release_date": "2025-09-29",
-      "size": 1167877
+      "release_date": "Released during a sunset",
+      "size": 165162
     },
     {
       "name": "Kaston",
       "category": "Insane",
       "stars": 1,
       "points": 30,
-      "author": "ZXC¿Girl? & Twisted",
+      "author": "ZXC\u00bfGirl? & Twisted",
       "release_date": "2025-08-17",
       "size": 85546
     },
@@ -4606,7 +3931,7 @@
       "category": "Insane",
       "stars": 3,
       "points": 42,
-      "author": "곽 두",
+      "author": "\uacfd \ub450",
       "release_date": "2024-06-07",
       "size": 378757
     },
@@ -4665,15 +3990,6 @@
       "size": 414942
     },
     {
-      "name": "Kero4cooper",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Kero",
-      "release_date": "Released during a sunset",
-      "size": 324069
-    },
-    {
       "name": "Kero4QshaR",
       "category": "Main",
       "stars": 1,
@@ -4681,6 +3997,15 @@
       "author": "Kero",
       "release_date": "2018-05-31",
       "size": 281949
+    },
+    {
+      "name": "Kero4cooper",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Kero",
+      "release_date": "Released during a sunset",
+      "size": 324069
     },
     {
       "name": "KeroDummy",
@@ -4737,15 +4062,6 @@
       "size": 428043
     },
     {
-      "name": "Koggers",
-      "category": "Main",
-      "stars": 2,
-      "points": 10,
-      "author": "Tyrone",
-      "release_date": "2023-10-12",
-      "size": 1220551
-    },
-    {
       "name": "KoGHub",
       "category": "Main",
       "stars": 3,
@@ -4753,15 +4069,6 @@
       "author": "Zonsa",
       "release_date": "2021-10-17",
       "size": 1334918
-    },
-    {
-      "name": "Kogritos",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "ZXC¿Girl?",
-      "release_date": "2025-05-23",
-      "size": 597195
     },
     {
       "name": "KogWatch",
@@ -4773,22 +4080,22 @@
       "size": 1539094
     },
     {
-      "name": "komyuSRT",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "Komyu",
-      "release_date": "2023-07-21",
-      "size": 807272
+      "name": "Koggers",
+      "category": "Main",
+      "stars": 2,
+      "points": 10,
+      "author": "Tyrone",
+      "release_date": "2023-10-12",
+      "size": 1220551
     },
     {
-      "name": "konwic4protokol",
+      "name": "Kogritos",
       "category": "Hard",
-      "stars": 2,
-      "points": 24,
-      "author": "konwic",
-      "release_date": "2020-08-29",
-      "size": 537930
+      "stars": 3,
+      "points": 29,
+      "author": "ZXC\u00bfGirl?",
+      "release_date": "2025-05-23",
+      "size": 597195
     },
     {
       "name": "Krumplee",
@@ -4818,6 +4125,15 @@
       "size": 487230
     },
     {
+      "name": "LUNATIC",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Rei ayanami",
+      "release_date": "2022-01-07",
+      "size": 1163850
+    },
+    {
       "name": "Lair",
       "category": "Solo",
       "stars": 2,
@@ -4834,24 +4150,6 @@
       "author": "Yo",
       "release_date": "2016-10-25",
       "size": 577309
-    },
-    {
-      "name": "legendary",
-      "category": "Insane",
-      "stars": 2,
-      "points": 47,
-      "author": "bzw",
-      "release_date": "2019-07-01",
-      "size": 666177
-    },
-    {
-      "name": "light",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "cagent",
-      "release_date": "2021-02-16",
-      "size": 330160
     },
     {
       "name": "LikeAFlo",
@@ -4921,7 +4219,7 @@
       "category": "Hard",
       "stars": 3,
       "points": 29,
-      "author": "ejjiе",
+      "author": "ejji\u0435",
       "release_date": "2024-06-30",
       "size": 1449658
     },
@@ -4935,15 +4233,6 @@
       "size": 5058319
     },
     {
-      "name": "lovender",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "purrp T",
-      "release_date": "2021-08-24",
-      "size": 591013
-    },
-    {
       "name": "LuLu-Gores",
       "category": "Mod",
       "stars": 4,
@@ -4953,13 +4242,31 @@
       "size": 492642
     },
     {
-      "name": "LUNATIC",
-      "category": "Hard",
+      "name": "MATTE",
+      "category": "Main",
       "stars": 1,
-      "points": 14,
+      "points": 5,
       "author": "Rei ayanami",
-      "release_date": "2022-01-07",
-      "size": 1163850
+      "release_date": "2021-11-09",
+      "size": 718528
+    },
+    {
+      "name": "MOJITO",
+      "category": "Insane",
+      "stars": 1,
+      "points": 48,
+      "author": "Jore, Mixi",
+      "release_date": "2021-08-10",
+      "size": 683743
+    },
+    {
+      "name": "MTr",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Waguri\u30c3",
+      "release_date": "2022-11-24",
+      "size": 316053
     },
     {
       "name": "Madriguera",
@@ -5007,15 +4314,6 @@
       "size": 556815
     },
     {
-      "name": "MATTE",
-      "category": "Main",
-      "stars": 1,
-      "points": 5,
-      "author": "Rei ayanami",
-      "release_date": "2021-11-09",
-      "size": 718528
-    },
-    {
       "name": "Mechanica",
       "category": "Main",
       "stars": 2,
@@ -5038,54 +4336,9 @@
       "category": "Solo",
       "stars": 3,
       "points": 27,
-      "author": "ᴄʀʏsɪs",
+      "author": "\u1d04\u0280\u028fs\u026as",
       "release_date": "2025-08-03",
       "size": 728841
-    },
-    {
-      "name": "meew1",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "meew",
-      "release_date": "2017-03-08",
-      "size": 763722
-    },
-    {
-      "name": "meew2",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "meew",
-      "release_date": "2017-11-27",
-      "size": 620956
-    },
-    {
-      "name": "meew3",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "meew",
-      "release_date": "2018-01-10",
-      "size": 319914
-    },
-    {
-      "name": "meew4",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "meew",
-      "release_date": "2018-04-03",
-      "size": 214863
-    },
-    {
-      "name": "melange",
-      "category": "Solo",
-      "stars": 1,
-      "points": 3,
-      "author": "Gotie",
-      "release_date": "2023-09-17",
-      "size": 890228
     },
     {
       "name": "Meliogor",
@@ -5104,24 +4357,6 @@
       "author": "Meliodafu",
       "release_date": "Released during a sunset",
       "size": 511815
-    },
-    {
-      "name": "melisawa",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
-      "author": "bamgumelisa",
-      "release_date": "2025-01-27",
-      "size": 401616
-    },
-    {
-      "name": "mellow",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "Uber",
-      "release_date": "2021-06-08",
-      "size": 191095
     },
     {
       "name": "Metal",
@@ -5149,15 +4384,6 @@
       "author": "Mixi",
       "release_date": "2025-02-22",
       "size": 577805
-    },
-    {
-      "name": "midnight",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
-      "author": "cagent",
-      "release_date": "2021-02-05",
-      "size": 222322
     },
     {
       "name": "Miiep4Miezii",
@@ -5232,11 +4458,20 @@
       "size": 77975
     },
     {
+      "name": "MinTurquoise",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "FlipLipp",
+      "release_date": "2019-02-14",
+      "size": 347388
+    },
+    {
       "name": "Mine",
       "category": "Main",
       "stars": 3,
       "points": 11,
-      "author": "Oмezurion",
+      "author": "O\u043cezurion",
       "release_date": "2021-07-23",
       "size": 307364
     },
@@ -5245,7 +4480,7 @@
       "category": "Insane",
       "stars": 3,
       "points": 47,
-      "author": "Hasty, Freguês",
+      "author": "Hasty, Fregu\u00eas",
       "release_date": "2023-02-17",
       "size": 484118
     },
@@ -5281,7 +4516,7 @@
       "category": "Main",
       "stars": 2,
       "points": 8,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2024-06-16",
       "size": 440209
     },
@@ -5290,18 +4525,9 @@
       "category": "Hard",
       "stars": 1,
       "points": 16,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2024-12-28",
       "size": 296320
-    },
-    {
-      "name": "MinTurquoise",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "FlipLipp",
-      "release_date": "2019-02-14",
-      "size": 347388
     },
     {
       "name": "Mixi1",
@@ -5367,31 +4593,13 @@
       "size": 396637
     },
     {
-      "name": "Mixi4isen",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
+      "name": "Mixi4KKUBA102",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
       "author": "Mixi",
-      "release_date": "2022-02-01",
-      "size": 382261
-    },
-    {
-      "name": "Mixi4jkaem",
-      "category": "Easy",
-      "stars": 3,
-      "points": 4,
-      "author": "Mixi",
-      "release_date": "2024-05-19",
-      "size": 339142
-    },
-    {
-      "name": "Mixi4kamillentee",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Mixi",
-      "release_date": "2024-01-13",
-      "size": 490917
+      "release_date": "2020-09-26",
+      "size": 372748
     },
     {
       "name": "Mixi4Karolina",
@@ -5401,15 +4609,6 @@
       "author": "Mixi",
       "release_date": "2024-12-27",
       "size": 642877
-    },
-    {
-      "name": "Mixi4KKUBA102",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Mixi",
-      "release_date": "2020-09-26",
-      "size": 372748
     },
     {
       "name": "Mixi4Migget",
@@ -5466,6 +4665,33 @@
       "size": 342440
     },
     {
+      "name": "Mixi4isen",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Mixi",
+      "release_date": "2022-02-01",
+      "size": 382261
+    },
+    {
+      "name": "Mixi4jkaem",
+      "category": "Easy",
+      "stars": 3,
+      "points": 4,
+      "author": "Mixi",
+      "release_date": "2024-05-19",
+      "size": 339142
+    },
+    {
+      "name": "Mixi4kamillentee",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Mixi",
+      "release_date": "2024-01-13",
+      "size": 490917
+    },
+    {
       "name": "Mixi5",
       "category": "Insane",
       "stars": 2,
@@ -5491,15 +4717,6 @@
       "author": "Themix",
       "release_date": "2023-04-23",
       "size": 1308503
-    },
-    {
-      "name": "MOJITO",
-      "category": "Insane",
-      "stars": 1,
-      "points": 48,
-      "author": "Jore, Mixi",
-      "release_date": "2021-08-10",
-      "size": 683743
     },
     {
       "name": "Monochromik",
@@ -5533,7 +4750,7 @@
       "category": "Insane",
       "stars": 1,
       "points": 27,
-      "author": "ŁoʋƙieeŞ散",
+      "author": "\u0141o\u028b\u0199iee\u015e\u6563",
       "release_date": "2025-12-31",
       "size": 515615
     },
@@ -5581,24 +4798,6 @@
       "author": "Mqx, Tnul",
       "release_date": "2023-10-14",
       "size": 445947
-    },
-    {
-      "name": "mrs_motivation",
-      "category": "Mod",
-      "stars": 5,
-      "points": 32,
-      "author": "mrs.",
-      "release_date": "2023-02-11",
-      "size": 951132
-    },
-    {
-      "name": "MTr",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "Waguriッ",
-      "release_date": "2022-11-24",
-      "size": 316053
     },
     {
       "name": "Muay_Thai",
@@ -5668,7 +4867,7 @@
       "category": "Insane",
       "stars": 1,
       "points": 48,
-      "author": "Bo₩ser, Mixi, FJP, Crispy",
+      "author": "Bo\u20a9ser, Mixi, FJP, Crispy",
       "release_date": "2023-04-02",
       "size": 1329910
     },
@@ -5718,24 +4917,6 @@
       "size": 1417181
     },
     {
-      "name": "nevergores3",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "neverminze",
-      "release_date": "2021-03-30",
-      "size": 390038
-    },
-    {
-      "name": "nevergores4",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "neverminze",
-      "release_date": "2021-04-06",
-      "size": 650959
-    },
-    {
       "name": "Neverland",
       "category": "Main",
       "stars": 3,
@@ -5752,6 +4933,15 @@
       "author": "sasha34827",
       "release_date": "2025-09-14",
       "size": 141922
+    },
+    {
+      "name": "NightSky",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "Hunter.exe",
+      "release_date": "2022-11-21",
+      "size": 814476
     },
     {
       "name": "Nighthawk",
@@ -5772,13 +4962,13 @@
       "size": 876480
     },
     {
-      "name": "NightSky",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "Hunter.exe",
-      "release_date": "2022-11-21",
-      "size": 814476
+      "name": "NoWENTEE",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "sd030",
+      "release_date": "2022-07-15",
+      "size": 490683
     },
     {
       "name": "No_mercy",
@@ -5806,15 +4996,6 @@
       "author": "Noe",
       "release_date": "2021-05-07",
       "size": 287255
-    },
-    {
-      "name": "NoWENTEE",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "sd030",
-      "release_date": "2022-07-15",
-      "size": 490683
     },
     {
       "name": "Nox1",
@@ -5970,22 +5151,13 @@
       "size": 360932
     },
     {
-      "name": "oen1",
-      "category": "Insane",
+      "name": "OldSchool2",
+      "category": "Main",
       "stars": 2,
-      "points": 40,
-      "author": "Neo",
-      "release_date": "2019-05-04",
-      "size": 490730
-    },
-    {
-      "name": "oen2",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "Neo",
-      "release_date": "2019-12-08",
-      "size": 466286
+      "points": 6,
+      "author": "Fliplipp",
+      "release_date": "2018-08-28",
+      "size": 309137
     },
     {
       "name": "Oldschool",
@@ -5997,15 +5169,6 @@
       "size": 319890
     },
     {
-      "name": "OldSchool2",
-      "category": "Main",
-      "stars": 2,
-      "points": 6,
-      "author": "Fliplipp",
-      "release_date": "2018-08-28",
-      "size": 309137
-    },
-    {
       "name": "Oldschool3",
       "category": "Hard",
       "stars": 3,
@@ -6015,20 +5178,11 @@
       "size": 489786
     },
     {
-      "name": "Omesurion4cagent",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Oмezurion",
-      "release_date": "2021-04-13",
-      "size": 704863
-    },
-    {
       "name": "Omesurion4Luckuy21",
       "category": "Insane",
       "stars": 1,
       "points": 27,
-      "author": "Oмezurion",
+      "author": "O\u043cezurion",
       "release_date": "2021-11-28",
       "size": 558182
     },
@@ -6042,13 +5196,13 @@
       "size": 255614
     },
     {
-      "name": "Omezurion4escenitty",
-      "category": "Hard",
+      "name": "Omesurion4cagent",
+      "category": "Main",
       "stars": 3,
-      "points": 25,
-      "author": "Omezurion",
-      "release_date": "2022-07-26",
-      "size": 353565
+      "points": 11,
+      "author": "O\u043cezurion",
+      "release_date": "2021-04-13",
+      "size": 704863
     },
     {
       "name": "Omezurion4Neo",
@@ -6058,6 +5212,15 @@
       "author": "Omezurion",
       "release_date": "2022-07-29",
       "size": 660311
+    },
+    {
+      "name": "Omezurion4escenitty",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Omezurion",
+      "release_date": "2022-07-26",
+      "size": 353565
     },
     {
       "name": "Ominous",
@@ -6100,18 +5263,9 @@
       "category": "Solo",
       "stars": 3,
       "points": 14,
-      "author": "ZXC¿Girl?",
+      "author": "ZXC\u00bfGirl?",
       "release_date": "2024-12-29",
       "size": 154632
-    },
-    {
-      "name": "Outer",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "Route66",
-      "release_date": "2022-01-14",
-      "size": 389206
     },
     {
       "name": "OutOfTheSky",
@@ -6123,6 +5277,15 @@
       "size": 399033
     },
     {
+      "name": "Outer",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Route66",
+      "release_date": "2022-01-14",
+      "size": 389206
+    },
+    {
       "name": "Overclocked",
       "category": "Insane",
       "stars": 3,
@@ -6132,13 +5295,13 @@
       "size": 351256
     },
     {
-      "name": "ozurdilerim_",
-      "category": "Extreme",
-      "stars": 1,
-      "points": 44,
-      "author": "ozurdilerim",
-      "release_date": "2024-02-09",
-      "size": 556120
+      "name": "PDW",
+      "category": "Hard",
+      "stars": 3,
+      "points": 34,
+      "author": "Mixi",
+      "release_date": "2022-11-21",
+      "size": 643349
     },
     {
       "name": "Panik-Gores",
@@ -6222,15 +5385,6 @@
       "size": 413304
     },
     {
-      "name": "PDW",
-      "category": "Hard",
-      "stars": 3,
-      "points": 34,
-      "author": "Mixi",
-      "release_date": "2022-11-21",
-      "size": 643349
-    },
-    {
       "name": "PeaceDeath",
       "category": "Main",
       "stars": 3,
@@ -6280,7 +5434,7 @@
       "category": "Insane",
       "stars": 1,
       "points": 27,
-      "author": "phizyxxx & ωerιx",
+      "author": "phizyxxx & \u03c9er\u03b9x",
       "release_date": "2025-09-14",
       "size": 388730
     },
@@ -6316,7 +5470,7 @@
       "category": "Hard",
       "stars": 1,
       "points": 11,
-      "author": "ρнιʐyxxx",
+      "author": "\u03c1\u043d\u03b9\u0290yxxx",
       "release_date": "2025-12-28",
       "size": 294074
     },
@@ -6328,15 +5482,6 @@
       "author": "Milaseq_",
       "release_date": "2025-11-23",
       "size": 194627
-    },
-    {
-      "name": "planetse",
-      "category": "Insane",
-      "stars": 2,
-      "points": 40,
-      "author": "se",
-      "release_date": "2022-11-30",
-      "size": 783578
     },
     {
       "name": "Planetux",
@@ -6438,15 +5583,6 @@
       "size": 612781
     },
     {
-      "name": "pressure",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "neverminze",
-      "release_date": "2020-06-05",
-      "size": 914352
-    },
-    {
       "name": "Princess_of_Darkness",
       "category": "Extreme",
       "stars": 1,
@@ -6454,15 +5590,6 @@
       "author": "Bibek",
       "release_date": "2022-06-26",
       "size": 1199454
-    },
-    {
-      "name": "promyu",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "Komyu",
-      "release_date": "2024-06-05",
-      "size": 799468
     },
     {
       "name": "Protokol1",
@@ -6490,15 +5617,6 @@
       "author": "Protokol",
       "release_date": "2019-03-19",
       "size": 308725
-    },
-    {
-      "name": "protokolbzw",
-      "category": "Insane",
-      "stars": 3,
-      "points": 47,
-      "author": "Protokol, bzw",
-      "release_date": "2022-12-02",
-      "size": 591287
     },
     {
       "name": "Pukki_World",
@@ -6571,15 +5689,6 @@
       "author": "Mqx",
       "release_date": "2025-11-09",
       "size": 254476
-    },
-    {
-      "name": "purple_space",
-      "category": "Hard",
-      "stars": 2,
-      "points": 24,
-      "author": "purrpT",
-      "release_date": "2020-01-02",
-      "size": 752775
     },
     {
       "name": "PurpleStardust",
@@ -6789,15 +5898,6 @@
       "size": 1672397
     },
     {
-      "name": "Q-move",
-      "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "QshaR",
-      "release_date": "2016-11-26",
-      "size": 1911565
-    },
-    {
       "name": "Q-Story",
       "category": "Main",
       "stars": 3,
@@ -6805,6 +5905,15 @@
       "author": "QshaR",
       "release_date": "Released during a sunset",
       "size": 2483444
+    },
+    {
+      "name": "Q-move",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "QshaR",
+      "release_date": "2016-11-26",
+      "size": 1911565
     },
     {
       "name": "Q-tele",
@@ -6897,15 +6006,6 @@
       "size": 563293
     },
     {
-      "name": "RainbowRoads",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "bzw",
-      "release_date": "2018-02-25",
-      "size": 182402
-    },
-    {
       "name": "RaiNy10",
       "category": "Hard",
       "stars": 2,
@@ -6951,31 +6051,13 @@
       "size": 579966
     },
     {
-      "name": "rawensawa",
-      "category": "Insane",
+      "name": "RainbowRoads",
+      "category": "Hard",
       "stars": 3,
-      "points": 42,
-      "author": "rawensawa",
-      "release_date": "2024-01-20",
-      "size": 541078
-    },
-    {
-      "name": "rawensawa4chang",
-      "category": "Extreme",
-      "stars": 1,
-      "points": 48,
-      "author": "rawensawa",
-      "release_date": "2024-06-18",
-      "size": 373884
-    },
-    {
-      "name": "rawensawa4wade",
-      "category": "Insane",
-      "stars": 1,
-      "points": 30,
-      "author": "rawensawa",
-      "release_date": "2024-06-24",
-      "size": 816693
+      "points": 29,
+      "author": "bzw",
+      "release_date": "2018-02-25",
+      "size": 182402
     },
     {
       "name": "Ready4Delete",
@@ -6994,15 +6076,6 @@
       "author": "RealTaco",
       "release_date": "2024-02-21",
       "size": 723398
-    },
-    {
-      "name": "red",
-      "category": "Solo",
-      "stars": 2,
-      "points": 6,
-      "author": "Zonsa",
-      "release_date": "2023-09-06",
-      "size": 299905
     },
     {
       "name": "RedCastle",
@@ -7113,24 +6186,6 @@
       "size": 311604
     },
     {
-      "name": "rey4benz",
-      "category": "Insane",
-      "stars": 3,
-      "points": 42,
-      "author": "ReyDeuce",
-      "release_date": "2024-10-06",
-      "size": 283963
-    },
-    {
-      "name": "rey4rey",
-      "category": "Insane",
-      "stars": 3,
-      "points": 42,
-      "author": "ReyDeuce",
-      "release_date": "2024-08-25",
-      "size": 445684
-    },
-    {
       "name": "Ring_of_Gores_III",
       "category": "Insane",
       "stars": 3,
@@ -7201,15 +6256,6 @@
       "author": "Zonsa",
       "release_date": "2020-06-30",
       "size": 166730
-    },
-    {
-      "name": "rubble",
-      "category": "Main",
-      "stars": 1,
-      "points": 6,
-      "author": "FJP",
-      "release_date": "2023-12-26",
-      "size": 297802
     },
     {
       "name": "Rubnitos",
@@ -7293,6 +6339,51 @@
       "size": 830732
     },
     {
+      "name": "SEMI",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Rei ayanami",
+      "release_date": "2021-12-30",
+      "size": 736140
+    },
+    {
+      "name": "SKILL",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "Rei ayanami",
+      "release_date": "2022-06-28",
+      "size": 845466
+    },
+    {
+      "name": "SKILLS",
+      "category": "Hard",
+      "stars": 3,
+      "points": 18,
+      "author": "Rei ayanami",
+      "release_date": "2022-08-23",
+      "size": 839947
+    },
+    {
+      "name": "SPUDIMAN",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "ejjie, Afterburn",
+      "release_date": "2024-12-13",
+      "size": 1780285
+    },
+    {
+      "name": "SUPSANE",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "Shyzo",
+      "release_date": "2018-04-28",
+      "size": 558699
+    },
+    {
       "name": "Sabled_Sun_1",
       "category": "Hard",
       "stars": 2,
@@ -7309,33 +6400,6 @@
       "author": "Themix",
       "release_date": "2024-04-25",
       "size": 721521
-    },
-    {
-      "name": "sakura",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "GELO",
-      "release_date": "2021-05-09",
-      "size": 521471
-    },
-    {
-      "name": "samo-FWYS1e",
-      "category": "Main",
-      "stars": 3,
-      "points": 16,
-      "author": "samo",
-      "release_date": "Released during a sunset",
-      "size": 358259
-    },
-    {
-      "name": "samo-FWYS2e",
-      "category": "Main",
-      "stars": 3,
-      "points": 16,
-      "author": "samo",
-      "release_date": "Released during a sunset",
-      "size": 405887
     },
     {
       "name": "Sanada",
@@ -7419,24 +6483,6 @@
       "size": 413305
     },
     {
-      "name": "sd004_NIghtLIfe",
-      "category": "Main",
-      "stars": 2,
-      "points": 12,
-      "author": "sd030",
-      "release_date": "2022-01-18",
-      "size": 775346
-    },
-    {
-      "name": "sd005",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "sd030",
-      "release_date": "2021-12-23",
-      "size": 403676
-    },
-    {
       "name": "Selva",
       "category": "Main",
       "stars": 2,
@@ -7446,20 +6492,11 @@
       "size": 944729
     },
     {
-      "name": "SEMI",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "Rei ayanami",
-      "release_date": "2021-12-30",
-      "size": 736140
-    },
-    {
       "name": "SendanLife",
       "category": "Insane",
       "stars": 1,
       "points": 27,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2025-11-02",
       "size": 861985
     },
@@ -7491,15 +6528,6 @@
       "size": 180196
     },
     {
-      "name": "sharkexe",
-      "category": "Hard",
-      "stars": 2,
-      "points": 18,
-      "author": "Zero",
-      "release_date": "2021-01-16",
-      "size": 1436019
-    },
-    {
       "name": "Shattered",
       "category": "Hard",
       "stars": 3,
@@ -7516,33 +6544,6 @@
       "author": "Sheldon",
       "release_date": "Released during a sunset",
       "size": 397196
-    },
-    {
-      "name": "shiro1",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "Shiro",
-      "release_date": "2021-02-26",
-      "size": 555693
-    },
-    {
-      "name": "shiro2",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "Shiro",
-      "release_date": "2021-06-15",
-      "size": 829140
-    },
-    {
-      "name": "shishi4minyxe",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "Shishigami",
-      "release_date": "2023-08-20",
-      "size": 769192
     },
     {
       "name": "Shorty",
@@ -7572,15 +6573,6 @@
       "size": 402277
     },
     {
-      "name": "Shyzo4TheCrew",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "Shyzo",
-      "release_date": "2018-07-27",
-      "size": 123755
-    },
-    {
       "name": "Shyzo4TS",
       "category": "Insane",
       "stars": 2,
@@ -7588,6 +6580,15 @@
       "author": "Shyzo",
       "release_date": "2018-09-01",
       "size": 130422
+    },
+    {
+      "name": "Shyzo4TheCrew",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "Shyzo",
+      "release_date": "2018-07-27",
+      "size": 123755
     },
     {
       "name": "ShyzoEZ-1",
@@ -7642,33 +6643,6 @@
       "author": "Themix",
       "release_date": "Released during a sunset",
       "size": 108772
-    },
-    {
-      "name": "sionstail",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Shinzō",
-      "release_date": "2025-06-27",
-      "size": 700312
-    },
-    {
-      "name": "SKILL",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "Rei ayanami",
-      "release_date": "2022-06-28",
-      "size": 845466
-    },
-    {
-      "name": "SKILLS",
-      "category": "Hard",
-      "stars": 3,
-      "points": 18,
-      "author": "Rei ayanami",
-      "release_date": "2022-08-23",
-      "size": 839947
     },
     {
       "name": "Sky_Dungeon",
@@ -7734,20 +6708,11 @@
       "size": 149736
     },
     {
-      "name": "snikichu",
-      "category": "Extreme",
-      "stars": 2,
-      "points": 91,
-      "author": "ejjie",
-      "release_date": "2025-10-05",
-      "size": 540767
-    },
-    {
       "name": "SnipeZonsa",
       "category": "Insane",
       "stars": 2,
       "points": 40,
-      "author": "SnipeZ² & Zonsa",
+      "author": "SnipeZ\u00b2 & Zonsa",
       "release_date": "2025-03-22",
       "size": 672395
     },
@@ -7788,15 +6753,6 @@
       "size": 991913
     },
     {
-      "name": "SpacedOut",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "Protokol,Feat",
-      "release_date": "2020-07-12",
-      "size": 409329
-    },
-    {
       "name": "SpaceJump",
       "category": "Main",
       "stars": 3,
@@ -7804,6 +6760,15 @@
       "author": "Vampyrali",
       "release_date": "2017-11-12",
       "size": 381908
+    },
+    {
+      "name": "SpacedOut",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Protokol,Feat",
+      "release_date": "2020-07-12",
+      "size": 409329
     },
     {
       "name": "Spirits_Path",
@@ -7824,15 +6789,6 @@
       "size": 992505
     },
     {
-      "name": "splith",
-      "category": "Main",
-      "stars": 2,
-      "points": 10,
-      "author": "konwic",
-      "release_date": "2020-12-15",
-      "size": 511488
-    },
-    {
       "name": "Springlobe",
       "category": "Main",
       "stars": 3,
@@ -7840,15 +6796,6 @@
       "author": "Themix",
       "release_date": "Released during a sunset",
       "size": 419643
-    },
-    {
-      "name": "SPUDIMAN",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "ejjie, Afterburn",
-      "release_date": "2024-12-13",
-      "size": 1780285
     },
     {
       "name": "Square_of_Gods",
@@ -7896,15 +6843,6 @@
       "size": 407065
     },
     {
-      "name": "Ssor4badoumed",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Ssor",
-      "release_date": "2024-08-31",
-      "size": 904495
-    },
-    {
       "name": "Ssor4Kleas",
       "category": "Hard",
       "stars": 2,
@@ -7950,6 +6888,15 @@
       "size": 509864
     },
     {
+      "name": "Ssor4badoumed",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "Ssor",
+      "release_date": "2024-08-31",
+      "size": 904495
+    },
+    {
       "name": "StargazerFullOne",
       "category": "Hard",
       "stars": 1,
@@ -7986,15 +6933,6 @@
       "size": 737927
     },
     {
-      "name": "subdue",
-      "category": "Easy",
-      "stars": 2,
-      "points": 4,
-      "author": "FJP",
-      "release_date": "2024-12-29",
-      "size": 667681
-    },
-    {
       "name": "SummerNights",
       "category": "Hard",
       "stars": 3,
@@ -8017,7 +6955,7 @@
       "category": "Insane",
       "stars": 1,
       "points": 23,
-      "author": "ωerιx",
+      "author": "\u03c9er\u03b9x",
       "release_date": "2025-10-05",
       "size": 279712
     },
@@ -8026,18 +6964,9 @@
       "category": "Easy",
       "stars": 1,
       "points": 1,
-      "author": "Afterbjörn",
+      "author": "Afterbj\u00f6rn",
       "release_date": "2024-11-26",
       "size": 763824
-    },
-    {
-      "name": "SUPSANE",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "Shyzo",
-      "release_date": "2018-04-28",
-      "size": 558699
     },
     {
       "name": "Sura",
@@ -8074,6 +7003,15 @@
       "author": "Redemption",
       "release_date": "2023-03-26",
       "size": 653436
+    },
+    {
+      "name": "TRILOG1A",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "Lebrieg, Larlok",
+      "release_date": "2021-06-06",
+      "size": 168536
     },
     {
       "name": "Tae",
@@ -8265,6 +7203,42 @@
       "size": 1673607
     },
     {
+      "name": "TheCube",
+      "category": "Hard",
+      "stars": 3,
+      "points": 29,
+      "author": "SlyDzE",
+      "release_date": "2020-12-11",
+      "size": 176037
+    },
+    {
+      "name": "TheForest",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "O\u043cezurion",
+      "release_date": "2021-01-19",
+      "size": 1120225
+    },
+    {
+      "name": "TheGauntlet",
+      "category": "Insane",
+      "stars": 3,
+      "points": 63,
+      "author": "Destin",
+      "release_date": "2019-06-03",
+      "size": 342561
+    },
+    {
+      "name": "TheGauntlet2",
+      "category": "Extreme",
+      "stars": 1,
+      "points": 81,
+      "author": "Destin",
+      "release_date": "2022-12-26",
+      "size": 676102
+    },
+    {
       "name": "The_Cube_2",
       "category": "Insane",
       "stars": 3,
@@ -8310,42 +7284,6 @@
       "size": 852858
     },
     {
-      "name": "TheCube",
-      "category": "Hard",
-      "stars": 3,
-      "points": 29,
-      "author": "SlyDzE",
-      "release_date": "2020-12-11",
-      "size": 176037
-    },
-    {
-      "name": "TheForest",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "Oмezurion",
-      "release_date": "2021-01-19",
-      "size": 1120225
-    },
-    {
-      "name": "TheGauntlet",
-      "category": "Insane",
-      "stars": 3,
-      "points": 63,
-      "author": "Destin",
-      "release_date": "2019-06-03",
-      "size": 342561
-    },
-    {
-      "name": "TheGauntlet2",
-      "category": "Extreme",
-      "stars": 1,
-      "points": 81,
-      "author": "Destin",
-      "release_date": "2022-12-26",
-      "size": 676102
-    },
-    {
       "name": "Themed4RegKecske",
       "category": "Insane",
       "stars": 2,
@@ -8355,29 +7293,11 @@
       "size": 720558
     },
     {
-      "name": "themixi",
-      "category": "Insane",
-      "stars": 3,
-      "points": 47,
-      "author": "Themix & Mixi",
-      "release_date": "2025-05-09",
-      "size": 437663
-    },
-    {
-      "name": "themixi_2",
-      "category": "Extreme",
-      "stars": 2,
-      "points": 80,
-      "author": "Themix & Mixi",
-      "release_date": "2025-08-24",
-      "size": 478653
-    },
-    {
       "name": "ThisIsSnipeZ",
       "category": "Insane",
       "stars": 2,
       "points": 36,
-      "author": "SnipeZ²",
+      "author": "SnipeZ\u00b2",
       "release_date": "2024-12-27",
       "size": 984209
     },
@@ -8407,15 +7327,6 @@
       "author": "FJP",
       "release_date": "2025-07-13",
       "size": 157466
-    },
-    {
-      "name": "Tomahawk",
-      "category": "Insane",
-      "stars": 2,
-      "points": 40,
-      "author": "Neo",
-      "release_date": "2018-09-13",
-      "size": 654203
     },
     {
       "name": "TomTom",
@@ -8481,6 +7392,15 @@
       "size": 385103
     },
     {
+      "name": "Tomahawk",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "Neo",
+      "release_date": "2018-09-13",
+      "size": 654203
+    },
+    {
       "name": "Tookies",
       "category": "Hard",
       "stars": 1,
@@ -8526,6 +7446,15 @@
       "size": 1197639
     },
     {
+      "name": "TreeZ",
+      "category": "Insane",
+      "stars": 3,
+      "points": 47,
+      "author": "SnipeZ\u00b2",
+      "release_date": "2024-12-31",
+      "size": 811864
+    },
+    {
       "name": "Treesmas",
       "category": "Hard",
       "stars": 2,
@@ -8533,24 +7462,6 @@
       "author": "Canarda",
       "release_date": "2025-05-09",
       "size": 771324
-    },
-    {
-      "name": "TreeZ",
-      "category": "Insane",
-      "stars": 3,
-      "points": 47,
-      "author": "SnipeZ²",
-      "release_date": "2024-12-31",
-      "size": 811864
-    },
-    {
-      "name": "TRILOG1A",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
-      "author": "Lebrieg, Larlok",
-      "release_date": "2021-06-06",
-      "size": 168536
     },
     {
       "name": "Trooper",
@@ -8607,15 +7518,6 @@
       "size": 460605
     },
     {
-      "name": "tyrone4fretardo",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Tyrone",
-      "release_date": "2021-12-14",
-      "size": 1181440
-    },
-    {
       "name": "Tyrone4Frozen",
       "category": "Hard",
       "stars": 1,
@@ -8623,42 +7525,6 @@
       "author": "Tyrone",
       "release_date": "2021-12-31",
       "size": 800118
-    },
-    {
-      "name": "uk1",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "UnKown",
-      "release_date": "2019-05-30",
-      "size": 381992
-    },
-    {
-      "name": "uk2",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "UnKnown",
-      "release_date": "2019-09-08",
-      "size": 388412
-    },
-    {
-      "name": "uk3",
-      "category": "Hard",
-      "stars": 3,
-      "points": 25,
-      "author": "UnKnown",
-      "release_date": "2020-01-12",
-      "size": 670602
-    },
-    {
-      "name": "Uk4",
-      "category": "Hard",
-      "stars": 2,
-      "points": 24,
-      "author": "UnKnown",
-      "release_date": "2020-10-16",
-      "size": 290578
     },
     {
       "name": "UNDR",
@@ -8670,13 +7536,13 @@
       "size": 347153
     },
     {
-      "name": "Unique",
-      "category": "Insane",
-      "stars": 1,
-      "points": 27,
+      "name": "Uk4",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
       "author": "UnKnown",
-      "release_date": "2021-05-28",
-      "size": 528414
+      "release_date": "2020-10-16",
+      "size": 290578
     },
     {
       "name": "UnKnown4Grass",
@@ -8697,6 +7563,15 @@
       "size": 253706
     },
     {
+      "name": "Unique",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "UnKnown",
+      "release_date": "2021-05-28",
+      "size": 528414
+    },
+    {
       "name": "UnlockTeam",
       "category": "Mod",
       "stars": 4,
@@ -8713,15 +7588,6 @@
       "author": "Milaseq_",
       "release_date": "2025-12-27",
       "size": 63993
-    },
-    {
-      "name": "urskog",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "New_Hero",
-      "release_date": "2023-05-13",
-      "size": 1220033
     },
     {
       "name": "VampEz1",
@@ -8749,6 +7615,15 @@
       "author": "Vampyrali",
       "release_date": "Released during a sunset",
       "size": 354290
+    },
+    {
+      "name": "Veltrix",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "johny tailor",
+      "release_date": "2026-02-09",
+      "size": 486052
     },
     {
       "name": "Vigorously",
@@ -8850,15 +7725,6 @@
       "size": 864887
     },
     {
-      "name": "Whitedom",
-      "category": "Hard",
-      "stars": 2,
-      "points": 21,
-      "author": "RealTaco",
-      "release_date": "2023-08-25",
-      "size": 1021958
-    },
-    {
       "name": "WhiteMoon",
       "category": "Hard",
       "stars": 3,
@@ -8866,6 +7732,15 @@
       "author": "FlipLipp",
       "release_date": "2018-11-19",
       "size": 382620
+    },
+    {
+      "name": "Whitedom",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "RealTaco",
+      "release_date": "2023-08-25",
+      "size": 1021958
     },
     {
       "name": "Wicked",
@@ -8965,24 +7840,6 @@
       "author": "Xoxo",
       "release_date": "2021-01-05",
       "size": 395949
-    },
-    {
-      "name": "xRyperion",
-      "category": "Main",
-      "stars": 2,
-      "points": 8,
-      "author": "xRyperion_",
-      "release_date": "Released during a sunset",
-      "size": 208347
-    },
-    {
-      "name": "xRyperionGecko",
-      "category": "Main",
-      "stars": 2,
-      "points": 10,
-      "author": "xRyperion_ & Gecko & FlipLipp",
-      "release_date": "Released during a sunset",
-      "size": 452596
     },
     {
       "name": "Xyz_gores",
@@ -9165,33 +8022,6 @@
       "size": 461393
     },
     {
-      "name": "Yoc4crunchY",
-      "category": "Insane",
-      "stars": 2,
-      "points": 36,
-      "author": "Yoc",
-      "release_date": "2020-08-22",
-      "size": 835702
-    },
-    {
-      "name": "Yoc4mpampas",
-      "category": "Insane",
-      "stars": 3,
-      "points": 47,
-      "author": "Yoc",
-      "release_date": "2021-10-22",
-      "size": 437596
-    },
-    {
-      "name": "YoCkis4",
-      "category": "Main",
-      "stars": 3,
-      "points": 24,
-      "author": "Yo & CkiS",
-      "release_date": "Released during a sunset",
-      "size": 814562
-    },
-    {
       "name": "YoCkiS5",
       "category": "Hard",
       "stars": 3,
@@ -9201,22 +8031,13 @@
       "size": 392062
     },
     {
-      "name": "Yoin4Crispy",
+      "name": "YoCkis4",
       "category": "Main",
       "stars": 3,
-      "points": 11,
-      "author": "Yoin",
-      "release_date": "2022-05-27",
-      "size": 545747
-    },
-    {
-      "name": "Yoin4Tester",
-      "category": "Insane",
-      "stars": 2,
-      "points": 32,
-      "author": "Yoin",
-      "release_date": "2024-05-21",
-      "size": 116969
+      "points": 24,
+      "author": "Yo & CkiS",
+      "release_date": "Released during a sunset",
+      "size": 814562
     },
     {
       "name": "YoJustTeE",
@@ -9235,6 +8056,42 @@
       "author": "Yo",
       "release_date": "2017-03-01",
       "size": 378850
+    },
+    {
+      "name": "Yoc4crunchY",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "Yoc",
+      "release_date": "2020-08-22",
+      "size": 835702
+    },
+    {
+      "name": "Yoc4mpampas",
+      "category": "Insane",
+      "stars": 3,
+      "points": 47,
+      "author": "Yoc",
+      "release_date": "2021-10-22",
+      "size": 437596
+    },
+    {
+      "name": "Yoin4Crispy",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Yoin",
+      "release_date": "2022-05-27",
+      "size": 545747
+    },
+    {
+      "name": "Yoin4Tester",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "Yoin",
+      "release_date": "2024-05-21",
+      "size": 116969
     },
     {
       "name": "Yuslo4Nizzza",
@@ -9264,38 +8121,29 @@
       "size": 693665
     },
     {
-      "name": "za1e",
-      "category": "Hard",
-      "stars": 1,
-      "points": 16,
-      "author": "zale",
-      "release_date": "2020-03-14",
-      "size": 304598
-    },
-    {
-      "name": "zale4blim",
-      "category": "Hard",
+      "name": "ZTOY",
+      "category": "Main",
       "stars": 3,
-      "points": 25,
-      "author": "zale",
-      "release_date": "2020-07-28",
-      "size": 482406
+      "points": 11,
+      "author": "Tyrone",
+      "release_date": "2022-05-17",
+      "size": 204068
     },
     {
-      "name": "zale4coany",
+      "name": "ZZZ",
       "category": "Hard",
-      "stars": 1,
-      "points": 14,
-      "author": "Zale",
-      "release_date": "2023-11-17",
-      "size": 913679
+      "stars": 2,
+      "points": 21,
+      "author": "Zonsa",
+      "release_date": "2020-07-05",
+      "size": 232264
     },
     {
       "name": "Zentarus",
       "category": "Insane",
       "stars": 2,
       "points": 36,
-      "author": "ρнιʐyxxx",
+      "author": "\u03c1\u043d\u03b9\u0290yxxx",
       "release_date": "2025-11-18",
       "size": 766728
     },
@@ -9336,15 +8184,6 @@
       "size": 241474
     },
     {
-      "name": "ziinox",
-      "category": "Extreme",
-      "stars": 3,
-      "points": 101,
-      "author": "Zonsa",
-      "release_date": "2023-11-15",
-      "size": 1501102
-    },
-    {
       "name": "Zonsa4Luckuy21",
       "category": "Main",
       "stars": 2,
@@ -9372,15 +8211,6 @@
       "size": 492481
     },
     {
-      "name": "zonsa_zonsa_zonsa",
-      "category": "Main",
-      "stars": 3,
-      "points": 13,
-      "author": "Zonsa",
-      "release_date": "2019-07-28",
-      "size": 1239539
-    },
-    {
       "name": "Zosna",
       "category": "Hard",
       "stars": 3,
@@ -9388,15 +8218,6 @@
       "author": "Zonsa",
       "release_date": "2021-09-14",
       "size": 686336
-    },
-    {
-      "name": "ZTOY",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Tyrone",
-      "release_date": "2022-05-17",
-      "size": 204068
     },
     {
       "name": "Zubr",
@@ -9408,13 +8229,1201 @@
       "size": 259773
     },
     {
-      "name": "ZZZ",
+      "name": "afOatmeal",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "Komyu",
+      "release_date": "2023-10-17",
+      "size": 850776
+    },
+    {
+      "name": "afkomyu",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "Komyu",
+      "release_date": "2023-02-02",
+      "size": 953037
+    },
+    {
+      "name": "asnoZ",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "Zonsa",
+      "release_date": "2022-12-26",
+      "size": 655153
+    },
+    {
+      "name": "bPls",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Route66",
+      "release_date": "2021-07-13",
+      "size": 417568
+    },
+    {
+      "name": "bazawa",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "bzw",
+      "release_date": "2020-04-07",
+      "size": 432227
+    },
+    {
+      "name": "blim4zale",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "blim",
+      "release_date": "2020-11-10",
+      "size": 308015
+    },
+    {
+      "name": "blim_Gores",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "blim",
+      "release_date": "2020-09-15",
+      "size": 322329
+    },
+    {
+      "name": "bloodstone",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "GELO",
+      "release_date": "2021-01-12",
+      "size": 512427
+    },
+    {
+      "name": "blue_space",
+      "category": "Hard",
+      "stars": 3,
+      "points": 29,
+      "author": "purrpT",
+      "release_date": "2020-05-02",
+      "size": 672206
+    },
+    {
+      "name": "bubbles",
+      "category": "Insane",
+      "stars": 1,
+      "points": 35,
+      "author": "cagent, Kingston",
+      "release_date": "2021-01-29",
+      "size": 409131
+    },
+    {
+      "name": "bzolow",
+      "category": "Solo",
+      "stars": 5,
+      "points": 44,
+      "author": "bzw",
+      "release_date": "2022-07-12",
+      "size": 671561
+    },
+    {
+      "name": "bzonsw",
+      "category": "Hard",
+      "stars": 3,
+      "points": 29,
+      "author": "Zonsa",
+      "release_date": "2020-04-18",
+      "size": 425927
+    },
+    {
+      "name": "bzw1",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
+      "author": "bzw",
+      "release_date": "2018-02-04",
+      "size": 164378
+    },
+    {
+      "name": "bzw2",
+      "category": "Insane",
+      "stars": 1,
+      "points": 41,
+      "author": "bzw",
+      "release_date": "2018-06-29",
+      "size": 369551
+    },
+    {
+      "name": "bzw3",
+      "category": "Insane",
+      "stars": 1,
+      "points": 35,
+      "author": "bzw",
+      "release_date": "2018-04-14",
+      "size": 376174
+    },
+    {
+      "name": "bzw4",
+      "category": "Insane",
+      "stars": 1,
+      "points": 41,
+      "author": "bzw",
+      "release_date": "2019-01-08",
+      "size": 503119
+    },
+    {
+      "name": "bzw4Treefly",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "bzw",
+      "release_date": "2018-10-07",
+      "size": 512891
+    },
+    {
+      "name": "bzw4chile",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "bzw",
+      "release_date": "2019-05-27",
+      "size": 431673
+    },
+    {
+      "name": "bzw4miep",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "bzw",
+      "release_date": "2018-03-27",
+      "size": 545274
+    },
+    {
+      "name": "bzw4tux",
+      "category": "Main",
+      "stars": 3,
+      "points": 8,
+      "author": "bzw",
+      "release_date": "2019-12-22",
+      "size": 480081
+    },
+    {
+      "name": "bzw5",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "bzw",
+      "release_date": "2019-03-27",
+      "size": 610236
+    },
+    {
+      "name": "bzw7",
+      "category": "Insane",
+      "stars": 3,
+      "points": 54,
+      "author": "bzw",
+      "release_date": "2019-05-31",
+      "size": 331384
+    },
+    {
+      "name": "bzw8",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "bzw",
+      "release_date": "2022-07-10",
+      "size": 699713
+    },
+    {
+      "name": "cake_reef",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "CAKExSNIFFERx42",
+      "release_date": "2024-08-17",
+      "size": 416185
+    },
+    {
+      "name": "cake_strawberry",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "CAKExSNIFFERx42",
+      "release_date": "2024-12-28",
+      "size": 860996
+    },
+    {
+      "name": "cake_winter",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "CAKExSNIFFERx42",
+      "release_date": "2024-07-03",
+      "size": 713652
+    },
+    {
+      "name": "calm",
+      "category": "Insane",
+      "stars": 2,
+      "points": 47,
+      "author": "bzw",
+      "release_date": "2019-08-02",
+      "size": 471355
+    },
+    {
+      "name": "capon",
+      "category": "Extreme",
+      "stars": 1,
+      "points": 44,
+      "author": "\u591c",
+      "release_date": "2024-07-13",
+      "size": 591911
+    },
+    {
+      "name": "cave",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "bzw",
+      "release_date": "2018-11-21",
+      "size": 487877
+    },
+    {
+      "name": "corgores2",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "ImCorneum",
+      "release_date": "2019-11-18",
+      "size": 663445
+    },
+    {
+      "name": "cursed",
+      "category": "Insane",
+      "stars": 3,
+      "points": 63,
+      "author": "Krumplee, bzw",
+      "release_date": "2021-01-06",
+      "size": 1346892
+    },
+    {
+      "name": "cyber",
+      "category": "Hard",
+      "stars": 3,
+      "points": 41,
+      "author": "FlippLip, Beautemps",
+      "release_date": "2023-11-27",
+      "size": 2730555
+    },
+    {
+      "name": "dabushes",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "Exless",
+      "release_date": "2021-06-29",
+      "size": 493341
+    },
+    {
+      "name": "dandadan",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
+      "author": "ejjie",
+      "release_date": "2025-01-20",
+      "size": 1881459
+    },
+    {
+      "name": "dark",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "cagent",
+      "release_date": "2021-05-11",
+      "size": 869883
+    },
+    {
+      "name": "darkforest",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "Mqx",
+      "release_date": "2023-05-10",
+      "size": 888824
+    },
+    {
+      "name": "ddrace",
+      "category": "Extreme",
+      "stars": 1,
+      "points": 54,
+      "author": "Themix",
+      "release_date": "2025-06-18",
+      "size": 684393
+    },
+    {
+      "name": "dindila",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "bzw",
+      "release_date": "2021-01-04",
+      "size": 715195
+    },
+    {
+      "name": "dionle",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "elnoid",
+      "release_date": "2024-12-03",
+      "size": 182009
+    },
+    {
+      "name": "dragonexe",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "Zero",
+      "release_date": "2021-04-16",
+      "size": 1426839
+    },
+    {
+      "name": "elnoid4FJP",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "elnoid",
+      "release_date": "2024-06-10",
+      "size": 498452
+    },
+    {
+      "name": "feat4flip",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "feat",
+      "release_date": "2019-12-12",
+      "size": 855315
+    },
+    {
+      "name": "feat4juicy",
+      "category": "Hard",
+      "stars": 3,
+      "points": 34,
+      "author": "feat",
+      "release_date": "2020-01-04",
+      "size": 1023559
+    },
+    {
+      "name": "feat4neo",
+      "category": "Hard",
+      "stars": 3,
+      "points": 29,
+      "author": "feat",
+      "release_date": "2020-07-17",
+      "size": 504841
+    },
+    {
+      "name": "featality",
+      "category": "Main",
+      "stars": 3,
+      "points": 16,
+      "author": "feat",
+      "release_date": "2018-10-20",
+      "size": 675188
+    },
+    {
+      "name": "featuristic",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "feat",
+      "release_date": "2018-08-30",
+      "size": 170841
+    },
+    {
+      "name": "fik4Enyltyn",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "fikmesan",
+      "release_date": "2019-04-26",
+      "size": 644389
+    },
+    {
+      "name": "fik4Isi",
+      "category": "Easy",
+      "stars": 2,
+      "points": 2,
+      "author": "fikmesan",
+      "release_date": "2018-06-29",
+      "size": 550903
+    },
+    {
+      "name": "fik4Kicker",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "fikmesan",
+      "release_date": "2018-06-09",
+      "size": 538877
+    },
+    {
+      "name": "fik4LemonTee",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "fikmesan",
+      "release_date": "2020-11-03",
+      "size": 229061
+    },
+    {
+      "name": "fik4SubLime",
+      "category": "Main",
+      "stars": 1,
+      "points": 4,
+      "author": "fikmesan",
+      "release_date": "2021-03-22",
+      "size": 566321
+    },
+    {
+      "name": "fik4bzw",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "fikmesan",
+      "release_date": "2018-10-29",
+      "size": 135989
+    },
+    {
+      "name": "fik4imp",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "fikmesan",
+      "release_date": "2019-04-10",
+      "size": 658837
+    },
+    {
+      "name": "fik4snail",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "fikmesan",
+      "release_date": "Released during a sunset",
+      "size": 100824
+    },
+    {
+      "name": "fikbzw",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "fikmesan_bzw",
+      "release_date": "2019-05-16",
+      "size": 423167
+    },
+    {
+      "name": "fikmesan",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "fikmesan",
+      "release_date": "Released during a sunset",
+      "size": 459351
+    },
+    {
+      "name": "fikvie",
+      "category": "Main",
+      "stars": 1,
+      "points": 12,
+      "author": "Ravie and fikmesan",
+      "release_date": "2018-10-28",
+      "size": 377734
+    },
+    {
+      "name": "fokcores",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "fokkonaut, Cor",
+      "release_date": "2020-05-22",
+      "size": 1006080
+    },
+    {
+      "name": "fokkonaut",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "fokkonaut",
+      "release_date": "2017-02-20",
+      "size": 209268
+    },
+    {
+      "name": "ghosttown",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "se",
+      "release_date": "2020-12-01",
+      "size": 423307
+    },
+    {
+      "name": "goatschool",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "purrpT",
+      "release_date": "2023-06-19",
+      "size": 210240
+    },
+    {
+      "name": "goryx",
+      "category": "Hard",
+      "stars": 3,
+      "points": 29,
+      "author": "purrpT",
+      "release_date": "2020-03-11",
+      "size": 188771
+    },
+    {
+      "name": "hanh_phuc",
+      "category": "Mod",
+      "stars": 5,
+      "points": 32,
+      "author": "Syltoox",
+      "release_date": "2020-06-03",
+      "size": 1322446
+    },
+    {
+      "name": "himinn",
+      "category": "Hard",
+      "stars": 1,
+      "points": 20,
+      "author": "New Hero",
+      "release_date": "2024-09-08",
+      "size": 1039858
+    },
+    {
+      "name": "humik",
       "category": "Hard",
       "stars": 2,
       "points": 21,
+      "author": "humik",
+      "release_date": "2023-09-20",
+      "size": 1466684
+    },
+    {
+      "name": "iCe-Ice",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "Deploid, se",
+      "release_date": "2021-10-10",
+      "size": 882124
+    },
+    {
+      "name": "iWebCkis1",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "iWeb_CkiS",
+      "release_date": "2019-09-04",
+      "size": 376136
+    },
+    {
+      "name": "i_need_mushroom_girl",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "ZXC\u00bfGirl?",
+      "release_date": "2025-10-12",
+      "size": 727574
+    },
+    {
+      "name": "ikiedulover",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "Colo-Colo",
+      "release_date": "2024-03-27",
+      "size": 521105
+    },
+    {
+      "name": "ilyzaelle",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "Colo-Colo",
+      "release_date": "2023-07-12",
+      "size": 425565
+    },
+    {
+      "name": "impton",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "Gotie, KOF",
+      "release_date": "2022-02-15",
+      "size": 406445
+    },
+    {
+      "name": "infazci",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "rawensawa",
+      "release_date": "2023-10-24",
+      "size": 576022
+    },
+    {
+      "name": "insomyu",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "Komyu",
+      "release_date": "2024-09-06",
+      "size": 611774
+    },
+    {
+      "name": "justfeat",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "feat",
+      "release_date": "2021-06-25",
+      "size": 922958
+    },
+    {
+      "name": "kakdela",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "ejjie",
+      "release_date": "2025-09-29",
+      "size": 1167877
+    },
+    {
+      "name": "komyuSRT",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Komyu",
+      "release_date": "2023-07-21",
+      "size": 807272
+    },
+    {
+      "name": "konwic4protokol",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
+      "author": "konwic",
+      "release_date": "2020-08-29",
+      "size": 537930
+    },
+    {
+      "name": "legendary",
+      "category": "Insane",
+      "stars": 2,
+      "points": 47,
+      "author": "bzw",
+      "release_date": "2019-07-01",
+      "size": 666177
+    },
+    {
+      "name": "light",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "cagent",
+      "release_date": "2021-02-16",
+      "size": 330160
+    },
+    {
+      "name": "lovender",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "purrp T",
+      "release_date": "2021-08-24",
+      "size": 591013
+    },
+    {
+      "name": "meew1",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "meew",
+      "release_date": "2017-03-08",
+      "size": 763722
+    },
+    {
+      "name": "meew2",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "meew",
+      "release_date": "2017-11-27",
+      "size": 620956
+    },
+    {
+      "name": "meew3",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "meew",
+      "release_date": "2018-01-10",
+      "size": 319914
+    },
+    {
+      "name": "meew4",
+      "category": "Hard",
+      "stars": 3,
+      "points": 22,
+      "author": "meew",
+      "release_date": "2018-04-03",
+      "size": 214863
+    },
+    {
+      "name": "melange",
+      "category": "Solo",
+      "stars": 1,
+      "points": 3,
+      "author": "Gotie",
+      "release_date": "2023-09-17",
+      "size": 890228
+    },
+    {
+      "name": "melisawa",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "bamgumelisa",
+      "release_date": "2025-01-27",
+      "size": 401616
+    },
+    {
+      "name": "mellow",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "Uber",
+      "release_date": "2021-06-08",
+      "size": 191095
+    },
+    {
+      "name": "midnight",
+      "category": "Insane",
+      "stars": 1,
+      "points": 27,
+      "author": "cagent",
+      "release_date": "2021-02-05",
+      "size": 222322
+    },
+    {
+      "name": "mrs_motivation",
+      "category": "Mod",
+      "stars": 5,
+      "points": 32,
+      "author": "mrs.",
+      "release_date": "2023-02-11",
+      "size": 951132
+    },
+    {
+      "name": "nevergores3",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "neverminze",
+      "release_date": "2021-03-30",
+      "size": 390038
+    },
+    {
+      "name": "nevergores4",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "neverminze",
+      "release_date": "2021-04-06",
+      "size": 650959
+    },
+    {
+      "name": "oen1",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "Neo",
+      "release_date": "2019-05-04",
+      "size": 490730
+    },
+    {
+      "name": "oen2",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "Neo",
+      "release_date": "2019-12-08",
+      "size": 466286
+    },
+    {
+      "name": "ozurdilerim_",
+      "category": "Extreme",
+      "stars": 1,
+      "points": 44,
+      "author": "ozurdilerim",
+      "release_date": "2024-02-09",
+      "size": 556120
+    },
+    {
+      "name": "planetse",
+      "category": "Insane",
+      "stars": 2,
+      "points": 40,
+      "author": "se",
+      "release_date": "2022-11-30",
+      "size": 783578
+    },
+    {
+      "name": "pressure",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "neverminze",
+      "release_date": "2020-06-05",
+      "size": 914352
+    },
+    {
+      "name": "promyu",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Komyu",
+      "release_date": "2024-06-05",
+      "size": 799468
+    },
+    {
+      "name": "protokolbzw",
+      "category": "Insane",
+      "stars": 3,
+      "points": 47,
+      "author": "Protokol, bzw",
+      "release_date": "2022-12-02",
+      "size": 591287
+    },
+    {
+      "name": "purple_space",
+      "category": "Hard",
+      "stars": 2,
+      "points": 24,
+      "author": "purrpT",
+      "release_date": "2020-01-02",
+      "size": 752775
+    },
+    {
+      "name": "rawensawa",
+      "category": "Insane",
+      "stars": 3,
+      "points": 42,
+      "author": "rawensawa",
+      "release_date": "2024-01-20",
+      "size": 541078
+    },
+    {
+      "name": "rawensawa4chang",
+      "category": "Extreme",
+      "stars": 1,
+      "points": 48,
+      "author": "rawensawa",
+      "release_date": "2024-06-18",
+      "size": 373884
+    },
+    {
+      "name": "rawensawa4wade",
+      "category": "Insane",
+      "stars": 1,
+      "points": 30,
+      "author": "rawensawa",
+      "release_date": "2024-06-24",
+      "size": 816693
+    },
+    {
+      "name": "red",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
       "author": "Zonsa",
-      "release_date": "2020-07-05",
-      "size": 232264
+      "release_date": "2023-09-06",
+      "size": 299905
+    },
+    {
+      "name": "rey4benz",
+      "category": "Insane",
+      "stars": 3,
+      "points": 42,
+      "author": "ReyDeuce",
+      "release_date": "2024-10-06",
+      "size": 283963
+    },
+    {
+      "name": "rey4rey",
+      "category": "Insane",
+      "stars": 3,
+      "points": 42,
+      "author": "ReyDeuce",
+      "release_date": "2024-08-25",
+      "size": 445684
+    },
+    {
+      "name": "rubble",
+      "category": "Main",
+      "stars": 1,
+      "points": 6,
+      "author": "FJP",
+      "release_date": "2023-12-26",
+      "size": 297802
+    },
+    {
+      "name": "sakura",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "GELO",
+      "release_date": "2021-05-09",
+      "size": 521471
+    },
+    {
+      "name": "samo-FWYS1e",
+      "category": "Main",
+      "stars": 3,
+      "points": 16,
+      "author": "samo",
+      "release_date": "Released during a sunset",
+      "size": 358259
+    },
+    {
+      "name": "samo-FWYS2e",
+      "category": "Main",
+      "stars": 3,
+      "points": 16,
+      "author": "samo",
+      "release_date": "Released during a sunset",
+      "size": 405887
+    },
+    {
+      "name": "sd004_NIghtLIfe",
+      "category": "Main",
+      "stars": 2,
+      "points": 12,
+      "author": "sd030",
+      "release_date": "2022-01-18",
+      "size": 775346
+    },
+    {
+      "name": "sd005",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "sd030",
+      "release_date": "2021-12-23",
+      "size": 403676
+    },
+    {
+      "name": "sharkexe",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "Zero",
+      "release_date": "2021-01-16",
+      "size": 1436019
+    },
+    {
+      "name": "shiro1",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "Shiro",
+      "release_date": "2021-02-26",
+      "size": 555693
+    },
+    {
+      "name": "shiro2",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "Shiro",
+      "release_date": "2021-06-15",
+      "size": 829140
+    },
+    {
+      "name": "shishi4minyxe",
+      "category": "Hard",
+      "stars": 2,
+      "points": 21,
+      "author": "Shishigami",
+      "release_date": "2023-08-20",
+      "size": 769192
+    },
+    {
+      "name": "sionstail",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "Shinz\u014d",
+      "release_date": "2025-06-27",
+      "size": 700312
+    },
+    {
+      "name": "snikichu",
+      "category": "Extreme",
+      "stars": 2,
+      "points": 91,
+      "author": "ejjie",
+      "release_date": "2025-10-05",
+      "size": 540767
+    },
+    {
+      "name": "splith",
+      "category": "Main",
+      "stars": 2,
+      "points": 10,
+      "author": "konwic",
+      "release_date": "2020-12-15",
+      "size": 511488
+    },
+    {
+      "name": "subdue",
+      "category": "Easy",
+      "stars": 2,
+      "points": 4,
+      "author": "FJP",
+      "release_date": "2024-12-29",
+      "size": 667681
+    },
+    {
+      "name": "themixi",
+      "category": "Insane",
+      "stars": 3,
+      "points": 47,
+      "author": "Themix & Mixi",
+      "release_date": "2025-05-09",
+      "size": 437663
+    },
+    {
+      "name": "themixi_2",
+      "category": "Extreme",
+      "stars": 2,
+      "points": 80,
+      "author": "Themix & Mixi",
+      "release_date": "2025-08-24",
+      "size": 478653
+    },
+    {
+      "name": "tyrone4fretardo",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Tyrone",
+      "release_date": "2021-12-14",
+      "size": 1181440
+    },
+    {
+      "name": "uk1",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "UnKown",
+      "release_date": "2019-05-30",
+      "size": 381992
+    },
+    {
+      "name": "uk2",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "UnKnown",
+      "release_date": "2019-09-08",
+      "size": 388412
+    },
+    {
+      "name": "uk3",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "UnKnown",
+      "release_date": "2020-01-12",
+      "size": 670602
+    },
+    {
+      "name": "urskog",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "New_Hero",
+      "release_date": "2023-05-13",
+      "size": 1220033
+    },
+    {
+      "name": "xRyperion",
+      "category": "Main",
+      "stars": 2,
+      "points": 8,
+      "author": "xRyperion_",
+      "release_date": "Released during a sunset",
+      "size": 208347
+    },
+    {
+      "name": "xRyperionGecko",
+      "category": "Main",
+      "stars": 2,
+      "points": 10,
+      "author": "xRyperion_ & Gecko & FlipLipp",
+      "release_date": "Released during a sunset",
+      "size": 452596
+    },
+    {
+      "name": "za1e",
+      "category": "Hard",
+      "stars": 1,
+      "points": 16,
+      "author": "zale",
+      "release_date": "2020-03-14",
+      "size": 304598
+    },
+    {
+      "name": "zale4blim",
+      "category": "Hard",
+      "stars": 3,
+      "points": 25,
+      "author": "zale",
+      "release_date": "2020-07-28",
+      "size": 482406
+    },
+    {
+      "name": "zale4coany",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Zale",
+      "release_date": "2023-11-17",
+      "size": 913679
+    },
+    {
+      "name": "ziinox",
+      "category": "Extreme",
+      "stars": 3,
+      "points": 101,
+      "author": "Zonsa",
+      "release_date": "2023-11-15",
+      "size": 1501102
+    },
+    {
+      "name": "zonsa_zonsa_zonsa",
+      "category": "Main",
+      "stars": 3,
+      "points": 13,
+      "author": "Zonsa",
+      "release_date": "2019-07-28",
+      "size": 1239539
     },
     {
       "name": "zzzz",
