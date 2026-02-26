@@ -1,6 +1,6 @@
 {
-  "version": "2026-02-16T21:28:21.343503",
-  "count": 1052,
+  "version": "2026-02-26T11:30:06.119289",
+  "count": 1056,
   "maps": [
     {
       "name": "001",
@@ -2053,6 +2053,24 @@
       "author": "Zonsa",
       "release_date": "2023-08-13",
       "size": 688615
+    },
+    {
+      "name": "Dystopia",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Afterbj\u00f6rn & FJP",
+      "release_date": "2026-02-22",
+      "size": 130717
+    },
+    {
+      "name": "Dystopia",
+      "category": "Main",
+      "stars": 3,
+      "points": 11,
+      "author": "Afterbj\u00f6rn & FJP",
+      "release_date": "2026-02-22",
+      "size": 130717
     },
     {
       "name": "E4RG",
@@ -4483,6 +4501,24 @@
       "author": "Zonsa",
       "release_date": "2023-08-03",
       "size": 1064988
+    },
+    {
+      "name": "Mimi",
+      "category": "Extreme",
+      "stars": 2,
+      "points": 80,
+      "author": "Milaseq_ & Mixi",
+      "release_date": "2026-02-22",
+      "size": 976256
+    },
+    {
+      "name": "Mimi",
+      "category": "Extreme",
+      "stars": 2,
+      "points": 80,
+      "author": "Milaseq_ & Mixi",
+      "release_date": "2026-02-22",
+      "size": 976256
     },
     {
       "name": "Mimixi",
