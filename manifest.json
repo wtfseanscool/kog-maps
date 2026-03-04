@@ -1,6 +1,6 @@
 {
-  "version": "2026-02-26T11:30:06.119289",
-  "count": 1056,
+  "version": "2026-03-04T16:19:30.619317",
+  "count": 1054,
   "maps": [
     {
       "name": "001",
@@ -631,15 +631,6 @@
       "author": "Krumplee",
       "release_date": "2025-10-12",
       "size": 1194726
-    },
-    {
-      "name": "BENEATH_A_DYING_SKY",
-      "category": "Extreme",
-      "stars": 2,
-      "points": 91,
-      "author": "SlyDzE",
-      "release_date": "2026-02-16",
-      "size": 2266426
     },
     {
       "name": "BENEATH_A_DYING_SKY",
@@ -2064,15 +2055,6 @@
       "size": 130717
     },
     {
-      "name": "Dystopia",
-      "category": "Main",
-      "stars": 3,
-      "points": 11,
-      "author": "Afterbj\u00f6rn & FJP",
-      "release_date": "2026-02-22",
-      "size": 130717
-    },
-    {
       "name": "E4RG",
       "category": "Insane",
       "stars": 3,
@@ -2116,6 +2098,15 @@
       "author": "xewoiy",
       "release_date": "2025-09-07",
       "size": 352585
+    },
+    {
+      "name": "Emerald_of_Gores",
+      "category": "Solo",
+      "stars": 3,
+      "points": 14,
+      "author": "alya?",
+      "release_date": "2026-03-03",
+      "size": 257712
     },
     {
       "name": "Encore",
@@ -3214,15 +3205,6 @@
       "author": "Zonsa",
       "release_date": "2020-07-21",
       "size": 293617
-    },
-    {
-      "name": "Grassless",
-      "category": "Hard",
-      "stars": 3,
-      "points": 22,
-      "author": "Minem",
-      "release_date": "2026-02-16",
-      "size": 749056
     },
     {
       "name": "Grassless",
@@ -4501,15 +4483,6 @@
       "author": "Zonsa",
       "release_date": "2023-08-03",
       "size": 1064988
-    },
-    {
-      "name": "Mimi",
-      "category": "Extreme",
-      "stars": 2,
-      "points": 80,
-      "author": "Milaseq_ & Mixi",
-      "release_date": "2026-02-22",
-      "size": 976256
     },
     {
       "name": "Mimi",
@@ -8326,6 +8299,15 @@
       "author": "Zonsa",
       "release_date": "2022-12-26",
       "size": 655153
+    },
+    {
+      "name": "azra",
+      "category": "Hard",
+      "stars": 1,
+      "points": 14,
+      "author": "Arylz",
+      "release_date": "2026-03-03",
+      "size": 805264
     },
     {
       "name": "bPls",
