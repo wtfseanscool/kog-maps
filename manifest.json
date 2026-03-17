@@ -1,6 +1,6 @@
 {
-  "version": "2026-03-04T16:19:30.619317",
-  "count": 1054,
+  "version": "2026-03-16T21:22:02.284068",
+  "count": 1062,
   "maps": [
     {
       "name": "001",
@@ -4575,6 +4575,24 @@
       "size": 296320
     },
     {
+      "name": "Miwackle",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "sasha34827 & \u0141o\u028b\u0199iee\u015e\u6563",
+      "release_date": "2026-03-08",
+      "size": 588601
+    },
+    {
+      "name": "Miwackle",
+      "category": "Insane",
+      "stars": 2,
+      "points": 36,
+      "author": "sasha34827 & \u0141o\u028b\u0199iee\u015e\u6563",
+      "release_date": "2026-03-08",
+      "size": 588601
+    },
+    {
       "name": "Mixi1",
       "category": "Insane",
       "stars": 2,
@@ -5032,6 +5050,24 @@
       "author": "elnoid",
       "release_date": "2024-07-11",
       "size": 567652
+    },
+    {
+      "name": "Nocturne",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
+      "author": "Canarda",
+      "release_date": "2026-03-08",
+      "size": 211634
+    },
+    {
+      "name": "Nocturne",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
+      "author": "Canarda",
+      "release_date": "2026-03-08",
+      "size": 211634
     },
     {
       "name": "Noe1",
@@ -7581,6 +7617,24 @@
       "size": 347153
     },
     {
+      "name": "USA",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "Canarda",
+      "release_date": "2026-03-16",
+      "size": 310196
+    },
+    {
+      "name": "USA",
+      "category": "Hard",
+      "stars": 2,
+      "points": 18,
+      "author": "Canarda",
+      "release_date": "2026-03-16",
+      "size": 310196
+    },
+    {
       "name": "Uk4",
       "category": "Hard",
       "stars": 2,
@@ -8182,6 +8236,24 @@
       "author": "Zonsa",
       "release_date": "2020-07-05",
       "size": 232264
+    },
+    {
+      "name": "Zen",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
+      "author": "FJP",
+      "release_date": "2026-03-16",
+      "size": 356953
+    },
+    {
+      "name": "Zen",
+      "category": "Solo",
+      "stars": 2,
+      "points": 6,
+      "author": "FJP",
+      "release_date": "2026-03-16",
+      "size": 356953
     },
     {
       "name": "Zentarus",
