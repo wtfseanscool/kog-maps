@@ -1,6 +1,6 @@
 {
-  "version": "2026-03-16T21:22:02.284068",
-  "count": 1062,
+  "version": "2026-03-23T17:12:06.617828",
+  "count": 1066,
   "maps": [
     {
       "name": "001",
@@ -7482,6 +7482,24 @@
       "size": 654203
     },
     {
+      "name": "Toog",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "CeyCen",
+      "release_date": "2026-03-23",
+      "size": 139648
+    },
+    {
+      "name": "Toog",
+      "category": "Insane",
+      "stars": 2,
+      "points": 32,
+      "author": "CeyCen",
+      "release_date": "2026-03-23",
+      "size": 139648
+    },
+    {
       "name": "Tookies",
       "category": "Hard",
       "stars": 1,
@@ -8722,6 +8740,24 @@
       "author": "elnoid",
       "release_date": "2024-06-10",
       "size": 498452
+    },
+    {
+      "name": "eptr",
+      "category": "Extreme",
+      "stars": 3,
+      "points": 78,
+      "author": "Zonsa",
+      "release_date": "2026-03-23",
+      "size": 1700700
+    },
+    {
+      "name": "eptr",
+      "category": "Extreme",
+      "stars": 3,
+      "points": 78,
+      "author": "Zonsa",
+      "release_date": "2026-03-23",
+      "size": 1700700
     },
     {
       "name": "feat4flip",
